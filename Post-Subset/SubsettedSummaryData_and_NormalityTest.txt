@@ -1,0 +1,16 @@
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.8760  0.0400  0.2000  0.2296  0.3920  0.9931 
+
+	Shapiro-Wilk normality test
+
+data:  medRdata
+W = 0.9844, p-value = 0.0002833
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-1.3580  0.0400  0.2029  0.2727  0.4142  2.8950 
+
+	Shapiro-Wilk normality test
+
+data:  medZdata
+W = 0.8806, p-value < 2.2e-16
+

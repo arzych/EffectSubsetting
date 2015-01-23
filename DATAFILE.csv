@@ -1,0 +1,584 @@
+Study Name,Type,R,SE R,Var R,Z,SE Z,Var Z,Meta-Analysis,Species,Sample Size,Sample Size 2,Response Variable,Venue,Treatment,Treatment Category
+Mount St. Hilaire (SITE),"Corr, N",0.214,0.096884737,9.39E-03,0.21735959,0.101534617,1.03E-02,"Arnqvuist, 1996",Aquarius remigis,100,,Assortive Mating,,,Natural
+Nydalasjon 1993 (SITE),"Corr, N",0.162,9.50E-02,9.03E-03,0.163439918,9.76E-02,9.52E-03,"Arnqvuist, 1996",Gerridae comatus,108,,Assortive Mating,,,Natural
+Nydalasjon 1993 (SITE),"Corr, N",-0.191,9.40E-02,8.84E-03,-0.193374826,9.76E-02,9.52E-03,"Arnqvuist, 1996",Gerridae comatus,108,,Index of Heteroscedastiscity,,,Natural
+"Bonn et al., 1996","Fisher's Z, N",0.529967525,5.97E-02,3.57E-03,0.5901,0.08304548,6.90E-03,Beasley 2013,Coenagrion puella,148,,,Field,,
+"Bonn et al., 1996","Fisher's Z, N",-0.049958375,0.082838212,6.86E-03,-0.05,0.08304548,6.90E-03,Beasley 2013,Coenagrion puella,148,,,Field,,
+"Hogg et al., 2001","Fisher's Z, N",0.273737846,7.12E-02,5.06E-03,0.2809,7.69E-02,5.92E-03,Beasley 2013,Nemuora trispinosa,172,,,Field,,
+"Hogg et al., 2001","Fisher's Z, N",0.647103861,0.044712046,2.00E-03,0.7703,7.69E-02,5.92E-03,Beasley 2013,Nemuora trispinosa,172,,,Field,,
+"Barbosa, 1997","Corr, N",-0.06,0.1006516,1.01E-02,-0.0601,0.101015254,1.02E-02,Beauchamp 2008,Calidris alpina,101,,Time spent vigilant vs. Group Size,,,
+"Barbosa, 1997","Corr, N",-0.08,0.100368757,1.01E-02,-0.0802,0.101015254,1.02E-02,Beauchamp 2008,Calidris alpina,101,,Scan Frequency vs. Group Size,,,
+"Barbosa, 1997","Corr, N",-0.05,0.100762716,0.010153125,-0.05,0.101015254,1.02E-02,Beauchamp 2008,Calidris alpina,101,,Scan Duration vs. Group Size,,,
+"Barnard, 1980","Corr, N",0.479,7.91E-02,6.25E-03,0.52168571,0.102597835,1.05E-02,Beauchamp 2008,Passer domesticus,98,,Scan Frequency vs. Group Size,,,
+"Bekoff, 1995","Corr, N",0.787,9.93E-03,9.86E-05,1.063500675,2.61E-02,6.81E-04,Beauchamp 2008,Coccothraustes vespertinus,1472,,Time spent vigilant vs. Group Size,,,
+"Bekoff, 1995","Corr, N",0.332,2.79E-02,7.80E-04,0.345074339,3.14E-02,9.85E-04,Beauchamp 2008,Coccothraustes vespertinus,1018,,Time spent vigilant vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.283,5.52E-02,3.04E-03,0.290940262,6.00E-02,3.60E-03,Beauchamp 2008,Passer domesticus,281,,Time spent vigilant vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.245,5.64E-02,3.18E-03,0.25008653,6.00E-02,3.60E-03,Beauchamp 2008,Passer domesticus,281,,Scan Frequency vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.198,5.76E-02,3.32E-03,0.200650085,6.00E-02,3.60E-03,Beauchamp 2008,Passer domesticus,281,,Scan Duration vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.172,7.06E-02,4.98E-03,0.173726908,7.27E-02,5.29E-03,Beauchamp 2008,Passer domesticus,192,,Time spent vigilant vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.266,6.76E-02,4.57E-03,0.272554287,7.27E-02,5.29E-03,Beauchamp 2008,Passer domesticus,192,,Scan Frequency vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.2,6.98E-02,4.88E-03,0.202732554,7.27E-02,5.29E-03,Beauchamp 2008,Passer domesticus,192,,Scan Duration vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.486,5.50E-02,3.02E-03,0.53080998,7.20E-02,5.18E-03,Beauchamp 2008,Fringilla coelebs,196,,Time spent vigilant vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.351,6.31E-02,0.003983298,0.366583811,7.20E-02,5.18E-03,Beauchamp 2008,Fringilla coelebs,196,,Scan Frequency vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.267,6.69E-02,4.47E-03,0.273630739,7.20E-02,5.18E-03,Beauchamp 2008,Fringilla coelebs,196,,Scan Duration vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.511,4.89E-02,2.39E-03,0.564082236,6.62E-02,4.39E-03,Beauchamp 2008,Fringilla coelebs,231,,Time spent vigilant vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.294,6.05E-02,3.66E-03,0.302939119,6.62E-02,4.39E-03,Beauchamp 2008,Fringilla coelebs,231,,Scan Frequency vs. Group Size,,,
+"Beveridge and Deag, 1987","Corr, N",0.212,6.33E-02,4.00E-03,0.215264538,6.62E-02,4.39E-03,Beauchamp 2008,Fringilla coelebs,231,,Scan Duration vs. Group Size,,,
+"Boysen et al., 2001","Corr, N",0.595,2.59E-02,6.71E-04,0.685370974,4.01E-02,1.61E-03,Beauchamp 2008,Junco hyemalis,625,,Time spent vigilant vs. Group Size,,,
+"Burger and Gochfeld, 1991","Corr, N",0.334,5.35E-02,0.002859901,0.347323778,6.02E-02,3.62E-03,Beauchamp 2008,Larus atricilla,279,,Time spent vigilant vs. Group Size,,,
+"Burger and Gochfeld, 1991","Corr, N",0.476,0.046554654,2.17E-03,0.51779966,6.02E-02,3.62E-03,Beauchamp 2008,Larus atricilla,279,,Scan Frequency vs. Group Size,,,
+"Caraco, 1979","Corr, N",0.6,6.60E-02,4.36E-03,0.693147181,0.103142125,1.06E-02,Beauchamp 2008,Junco phaeonotus,97,,Time spent vigilant vs. Group Size,,,
+"Dias, 2006","Corr, N",0.392,7.18E-02,5.15E-03,0.414160979,8.48E-02,7.19E-03,Beauchamp 2008,Columbina squamata,142,,Time spent vigilant vs. Group Size,,,
+"Dias, 2006","Corr, N",0.36,7.38E-02,5.45E-03,0.376885901,8.48E-02,7.19E-03,Beauchamp 2008,Columbina squamata,142,,Scan Frequency vs. Group Size,,,
+"Diaz and Asensia, 1991","Corr, N",0.311,8.61E-02,7.42E-03,0.321652106,9.53E-02,9.09E-03,Beauchamp 2008,Pica pica,113,,Time spent vigilant vs. Group Size,,,
+"Diaz and Asensia, 1991","Corr, N",0.229,9.03E-02,8.16E-03,0.233133868,9.53E-02,9.09E-03,Beauchamp 2008,Pica pica,113,,Scan Frequency vs. Group Size,,,
+"Diaz and Asensia, 1991","Corr, N",0,9.53E-02,9.09E-03,0,9.53E-02,9.09E-03,Beauchamp 2008,Pica pica,113,,Scan Duration vs. Group Size,,,
+"Dominguez, 2002","Corr, N",0.183,4.19E-02,0.001755909,0.185084885,0.043355498,1.88E-03,Beauchamp 2008,Limosa limosa,535,,Time spent vigilant vs. Group Size,,,
+"Dominguez, 2002","Corr, N",0.211,4.14E-02,1.72E-03,0.214217711,0.043355498,1.88E-03,Beauchamp 2008,Limosa limosa,535,,Scan Duration vs. Group Size,,,
+"Elgar and Catterall, 1981","Corr, N",0.863,1.20E-02,1.44E-04,1.304981222,4.70E-02,2.21E-03,Beauchamp 2008,Passer domesticus,455,,Scan Frequency vs. Group Size,,,
+"Elgar, 1986","Corr, N",0.52,0.070865017,5.02E-03,0.576339755,9.71E-02,9.43E-03,Beauchamp 2008,Passer domesticus,109,,Scan Frequency vs. Group Size,,,
+"Elgar, 1986","Corr, N",0.484,8.03E-02,6.44E-03,0.528194829,0.104828484,0.010989011,Beauchamp 2008,Passer domesticus,94,,Scan Frequency vs. Group Size,,,
+"Elgar, 1987","Corr, N",0.405,0.068716722,4.72E-03,0.429615588,8.22E-02,6.76E-03,Beauchamp 2008,Passer domesticus,151,,Scan Frequency vs. Group Size,,,
+"Ely, 1992","Corr, N",-0.347,4.10E-02,1.68E-03,-0.362029024,4.66E-02,2.17E-03,Beauchamp 2008,Anser albifons frontalis,463,,Time spent vigilant vs. Group Size,,,
+"Fernandez-Juricic et al., 2007","Corr, N",0.312,8.14E-02,6.62E-03,0.322759566,9.02E-02,8.13E-03,Beauchamp 2008,Molothrus ater,126,,Time spent vigilant vs. Group Size,,,
+"Fernandez-Juricic et al., 2007","Corr, N",0.28,8.31E-02,6.91E-03,0.287682072,9.02E-02,8.13E-03,Beauchamp 2008,Molothrus ater,126,,Scan Frequency vs. Group Size,,,
+"Fernandez-Juricic et al., 2007","Corr, N",0.296,8.23E-02,6.77E-03,0.30512976,9.02E-02,8.13E-03,Beauchamp 2008,Molothrus ater,126,,Scan Duration vs. Group Size,,,
+"Fleischer, 1983","Corr, N",0.294,5.45E-02,2.97E-03,0.302939119,5.97E-02,3.56E-03,Beauchamp 2008,Arenaria interpres,284,,Scan Frequency vs. Group Size,,,
+"Goss-Custard et al., 1999","Corr, N",-0.13,7.87E-02,6.20E-03,-0.13073985,8.01E-02,6.41E-03,Beauchamp 2008,Haematopus ostralegus,159,,Time spent vigilant vs. Group Size,,,
+"Goss-Custard et al., 1999","Corr, N",-0.46,6.31E-02,3.98E-03,-0.497311288,8.01E-02,6.41E-03,Beauchamp 2008,Haematopus ostralegus,159,,Scan Frequency vs. Group Size,,,
+"Lima, 1995","Corr, N",0.722,4.48E-02,2.01E-03,0.911810286,9.37E-02,8.77E-03,Beauchamp 2008,Junco hyemalis,117,,Time spent vigilant vs. Group Size,,,
+"McKinstry and Knight, 1993","Corr, N",-0.876,2.48E-02,6.15E-04,-1.358307782,0.106600358,1.14E-02,Beauchamp 2008,Pica pica,91,,Time spent vigilant vs. Group Size,,,
+"Petrie and Petrie, 1998","Corr, N",0.285,2.26E-02,5.11E-04,0.293115727,2.46E-02,6.05E-04,Beauchamp 2008,Dendrocygna viduata,1656,,Time spent vigilant vs. Group Size,,,
+"Poysa, 1994","Corr, N",0.199,7.74E-02,5.99E-03,0.201691104,0.080582296,6.49E-03,Beauchamp 2008,Anas crecca crecca,157,,Time spent vigilant vs. Group Size,,,
+"Poysa, 1994","Corr, N",0.233,7.62E-02,5.81E-03,0.237359351,0.080582296,6.49E-03,Beauchamp 2008,Anas crecca crecca,157,,Scan Duration vs. Group Size,,,
+"Pulliam et al., 1982","Corr, N",-0.03,6.86E-02,4.71E-03,-0.03,6.87E-02,4.72E-03,Beauchamp 2008,Junco phaeonotus,215,,Scan Duration vs. Group Size,,,
+"Rolando et al., 2001","Corr, N",0.266,7.61E-02,5.80E-03,0.272554287,8.19E-02,6.71E-03,Beauchamp 2008,Pyrrhocorax pyrrhocorax,152,,Time spent vigilant vs. Group Size,,,
+"Saino, 1994","Corr, N",0.205,2.77E-02,7.65E-04,0.207946366,2.89E-02,8.33E-04,Beauchamp 2008,Corvus corone corone,1203,,Time spent vigilant vs. Group Size,,,
+"Saino, 1994","Corr, N",0.263,2.69E-02,7.22E-04,0.269328615,2.89E-02,8.33E-04,Beauchamp 2008,Corvus corone corone,1203,,Scan Frequency vs. Group Size,,,
+"Saino, 1994","Corr, N",0.158,2.81E-02,0.000792246,0.159334822,2.89E-02,8.33E-04,Beauchamp 2008,Corvus corone corone,1203,,Scan Duration vs. Group Size,,,
+"Schmitz and Baldassarre, 1992","Corr, N",0.85,9.33E-03,8.71E-05,1.256152812,3.36E-02,1.13E-03,Beauchamp 2008,Phoenicopterus ruber ruber ,887,,Time spent vigilant vs. Group Size,,,
+"Sullivan, 1984","Corr, N",0.866,2.00E-02,3.98E-04,1.316856291,7.98E-02,6.37E-03,Beauchamp 2008,Picoides pubescens,160,,Scan Frequency vs. Group Size,,,
+"Tacha, 1988","Corr, N",0.1,2.99E-02,8.96E-04,0.100335348,0.030233703,9.14E-04,Beauchamp 2008,Grus canadensis,1097,,Time spent vigilant vs. Group Size,,,
+"Van der veen, 2000","Corr, N",0.221,6.37E-02,4.06E-03,0.224707214,6.70E-02,4.48E-03,Beauchamp 2008,Emberiza citrinella,226,,Time spent vigilant vs. Group Size,,,
+"Waite, 1981","Corr, N",0.631,5.16E-02,2.66E-03,0.743075979,8.57E-02,7.35E-03,Beauchamp 2008,Corvus frugilegus,139,,Time spent vigilant vs. Group Size,,,
+"Westcott and Cockburn, 1988","Corr, N",0.33,0.06365,0.004051323,0.342828254,7.14E-02,5.10E-03,Beauchamp 2008,Eolophus roseicapilla,199,,Scan Duration vs. Group Size,,,
+"Lynch & Whigham, 1984","Corr, N",0.07,9.81E-02,9.61E-03,7.01E-02,9.85E-02,9.71E-03,"Bender, 1998",Colaptes auratus,106,,Population Density,,Patch Size,Natural
+"Lynch & Whigham, 1984","Corr, N",-0.05,8.06E-02,6.50E-03,-5.00E-02,8.08E-02,6.54E-03,"Bender, 1998",Cyanocitte cristata,156,,Population Density,,Patch Size,Natural
+"Lynch & Whigham, 1984","Corr, N",0.07,0.10052028,1.01E-02,7.01E-02,0.101015254,1.02E-02,"Bender, 1998",Empidonax virescens,101,,Population Density,,Patch Size,Natural
+"Lynch & Whigham, 1984","Corr, N",-0.07,0.100011313,1.00E-02,-7.01E-02,0.100503782,1.01E-02,"Bender, 1998",Myiarchus crinitus,102,,Population Density,,Patch Size,Natural
+"Lynch & Whigham, 1984","Corr, N",-0.05,7.48E-02,5.59E-03,-5.00E-02,7.50E-02,5.62E-03,"Bender, 1998",Parus bicolor,181,,Population Density,,Patch Size,Natural
+"Lynch & Whigham, 1984","Corr, N",-0.05,7.99E-02,6.38E-03,-5.00E-02,8.01E-02,6.41E-03,"Bender, 1998",Parus carolinensis,159,,Population Density,,Patch Size,Natural
+"Lynch & Whigham, 1984","Corr, N",-0.06,9.37E-02,8.79E-03,-6.01E-02,9.41E-02,8.85E-03,"Bender, 1998",Pipilo erythropththalmus,116,,Population Density,,Patch Size,Natural
+"Lynch & Whigham, 1984","Corr, N",-0.05,8.09E-02,0.006546094,-5.00E-02,8.11E-02,6.58E-03,"Bender, 1998",Piranga olivacea,155,,Population Density,,Patch Size,Natural
+"Lynch & Whigham, 1984","Corr, N",0.05,7.67E-02,5.89E-03,5.00E-02,7.69E-02,5.92E-03,"Bender, 1998",Vireo olivaceus,172,,Population Density,,Patch Size,Natural
+"Blackburn and Duncan, 2001","Corr, N",0.189,4.74E-02,2.25E-03,0.191299921,4.92E-02,2.42E-03,Blackburn 2009,,416,,,,,
+"Brooks , 2001","Corr, N",-0.049,4.81E-02,2.31E-03,-4.90E-02,4.82E-02,2.33E-03,Blackburn 2009,,433,,,,,
+"Brooks , 2001","Corr, N",0.251,4.52E-02,2.04E-03,0.256479763,4.82E-02,2.33E-03,Blackburn 2009,,433,,,,,
+"Brooks, 2001","Corr, N",-0.04,4.81E-02,2.32E-03,-4.00E-02,4.82E-02,2.33E-03,Blackburn 2009,,433,,,,,
+"Brooks, 2001","Corr, N",0.189,4.65E-02,2.16E-03,0.191299921,4.82E-02,2.33E-03,Blackburn 2009,,433,,,,,
+"Cassey , 2001","Corr, N",-0.282,0.091590785,8.39E-03,-0.289853534,9.95E-02,9.90E-03,Blackburn 2009,,104,,,,,
+"Cassey , 2002","Corr, N",0.162,4.90E-02,2.40E-03,0.163439918,5.03E-02,2.53E-03,Blackburn 2009,,398,,,,,
+"Cassey , 2002","Corr, N",0.153,4.93E-02,2.43E-03,0.154210913,5.04E-02,2.54E-03,Blackburn 2009,,396,,,,,
+"Cassey , 2002","Corr, N",0.243,4.75E-02,2.25E-03,0.247959919,5.04E-02,2.54E-03,Blackburn 2009,,396,,,,,
+"Cassey , 2002","Corr, N",0.651,2.92E-02,8.51E-04,0.777032261,5.06E-02,2.56E-03,Blackburn 2009,,393,,,,,
+"Cassey , 2002","Corr, N",-0.324,4.63E-02,2.14E-03,-0.33610983,5.17E-02,2.67E-03,Blackburn 2009,,377,,,,,
+"Cassey , 2002","Corr, N",-0.229,4.91E-02,2.41E-03,-0.233133868,5.18E-02,2.69E-03,Blackburn 2009,,375,,,,,
+"Cassey , 2002","Corr, N",-0.286,5.66E-02,3.21E-03,-0.294204471,6.17E-02,3.80E-03,Blackburn 2009,,266,,,,,
+"Cassey , 2002","Corr, N",0.291,7.13E-02,5.08E-03,0.299658432,7.78E-02,6.06E-03,Blackburn 2009,,168,,,,,
+"Cassey et al. , 2004","Corr, N",0.375,8.08E-02,6.54E-03,0.39422868,9.41E-02,8.85E-03,Blackburn 2009,,116,,,,,
+"Cassey, 2002","Corr, N",0.125,6.50E-02,4.23E-03,0.125657214,0.06608186,4.37E-03,Blackburn 2009,,232,,,,,
+"Duncan et al. , 2006","Corr, N",0.297,8.43E-02,7.11E-03,0.306226146,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"Duncan et al. , 2006","Corr, N",-0.084,0.091797705,8.43E-03,-8.42E-02,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"Duncan et al. , 2006","Corr, N",-0.011,9.24E-02,8.54E-03,-1.10E-02,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"Duncan et al. , 2006","Corr, N",0.152,9.03E-02,8.16E-03,0.153187103,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"Duncan et al. , 2006","Corr, N",-0.01,9.24E-02,8.55E-03,-1.00E-02,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"Duncan et al. , 2006","Corr, N",0.091,9.17E-02,8.41E-03,0.091252446,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"Duncan et al. , 2006","Corr, N",-0.112,9.13E-02,8.33E-03,-0.112471866,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"Duncan et al. , 2006","Corr, N",-0.104,9.15E-02,8.36E-03,-0.104377407,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"Duncan et al., 2006","Corr, N",0.146,0.090479368,8.19E-03,0.147050852,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"Duncan et al., 2006","Corr, N",0.142,9.06E-02,0.0082058,0.142966145,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"McLain et al. , 1999","Corr, N",-0.219,8.38E-02,7.03E-03,-0.22260549,8.80E-02,7.75E-03,Blackburn 2009,,132,,,,,
+"McLain et al. , 1999","Corr, N",0.224,8.43E-02,7.10E-03,0.227863471,8.87E-02,7.87E-03,Blackburn 2009,,130,,,,,
+"McLain et al. , 1999","Corr, N",-0.172,8.97E-02,8.05E-03,-0.173726908,9.25E-02,8.55E-03,Blackburn 2009,,120,,,,,
+"McLain et al. , 1999","Corr, N",0.04,9.31E-02,8.67E-03,4.00E-02,9.33E-02,8.70E-03,Blackburn 2009,,118,,,,,
+"McLain et al., 1999","Corr, N",0.252,8.25E-02,6.80E-03,0.257547287,8.80E-02,7.75E-03,Blackburn 2009,,132,,,,,
+"Møller and Cassey , 2004","Corr, N",-0.115,9.54E-02,9.10E-03,-0.115511019,9.67E-02,9.35E-03,Blackburn 2009,,110,,,,,
+"Møller and Cassey , 2004","Corr, N",0.395,8.40E-02,7.05E-03,0.417710618,9.95E-02,9.90E-03,Blackburn 2009,,104,,,,,
+"Møller and Cassey , 2004","Corr, N",-0.05,9.93E-02,9.85E-03,-5.00E-02,9.95E-02,9.90E-03,Blackburn 2009,,104,,,,,
+"Møller and Cassey , 2004","Corr, N",0.058,9.92E-02,9.83E-03,5.81E-02,9.95E-02,9.90E-03,Blackburn 2009,,104,,,,,
+"Møller and Cassey, 2004","Corr, N",0.399,8.37E-02,7.00E-03,0.42245902,9.95E-02,9.90E-03,Blackburn 2009,,104,,,,,
+"Moulton and Pimm , 1986","Corr, N",0.206,9.26E-02,8.57E-03,0.208990458,9.67E-02,9.35E-03,Blackburn 2009,,110,,,,,
+"Moulton et al. , 2001","Corr, N",0.318,8.77E-02,7.70E-03,0.329420529,9.76E-02,9.52E-03,Blackburn 2009,,108,,,,,
+"Sol et al., 2005","Corr, N",0.334,0.07429542,5.52E-03,0.347323778,8.36E-02,6.99E-03,Blackburn 2009,,146,,,,,
+Saikkonen et al. 2010,"Fisher's Z, N",0.290397209,7.97E-02,6.35E-03,0.299,8.70E-02,7.58E-03,"Castellanos, 2012",germination,135,,neighbours (litter),,interaction,Natural
+"Alonso-alvaraz et. al., 2004","Corr, N",0.1127,9.13E-02,8.33E-03,0.113180815,9.25E-02,8.55E-03,"Constantini, 2009",Taeniopygia guttata,120,,Susceptibility of red blood cells to haemolyse,,Lipopolysaccharide,Natural
+"Casagrande, unpublished","Corr, N",0.5371,7.38E-02,5.44E-03,0.600070878,0.103695169,0.010752688,"Constantini, 2009",Geopelia cuneata,96,,Oxidative damage (d-ROMs test),,Sheep red blood cells,Natural
+"Casagrande, unpublished","Corr, N",0.5593,7.13E-02,5.08E-03,0.631813955,0.103695169,0.010752688,"Constantini, 2009",Geopelia cuneata,96,,Total plasma antioxidant capacity,,Sheep red blood cells,Natural
+Agrawal & Fishbein,"Fisher's Z, N",-0.139092448,7.17E-02,5.14E-03,-0.14,7.31E-02,5.35E-03,"Endara, 2011",Herbs,190,,Defense investment,,growth,Natural
+"Almeida-Cortéz et al., 2009","Fisher's Z, N",-0.396930432,0.071975039,5.18E-03,-0.42,8.54E-02,7.30E-03,"Endara, 2011",Herbs,140,,Defense investment,,growth,Natural
+"Almeida-Cortéz et al., 2009","Fisher's Z, N",-0.119427299,8.42E-02,7.09E-03,-0.12,8.54E-02,7.30E-03,"Endara, 2011",Herbs,140,,Defense investment,,growth,Natural
+"Dudt & Shure, 1994","Fisher's Z, N",0.168381046,6.31E-02,3.98E-03,0.17,6.50E-02,4.22E-03,"Endara, 2011",Woody,240,,Defense investment,,growth,Natural
+Fine et. al. 2006,"Fisher's Z, N",0.379948962,0.050158434,2.52E-03,0.4,5.86E-02,3.44E-03,"Endara, 2011",Woody,294,,Defense investment,,growth,Natural
+Fine et. al. 2006,"Fisher's Z, N",0.187746206,0.091570147,8.39E-03,0.19,9.49E-02,9.01E-03,"Endara, 2011",Woody,114,,Defense investment,,growth,Natural
+Fine et. al. 2006,"Fisher's Z, N",0.66403677,5.31E-02,2.82E-03,0.8,9.49E-02,9.01E-03,"Endara, 2011",Woody,114,,Defense investment,,growth,Natural
+Fine et. al. 2006,"Fisher's Z, N",0.345214034,8.36E-02,6.99E-03,0.36,9.49E-02,9.01E-03,"Endara, 2011",Woody,114,,Defense investment,,growth,Natural
+Fine et. al. 2006,"Fisher's Z, N",0.345214034,8.36E-02,6.99E-03,0.36,9.49E-02,9.01E-03,"Endara, 2011",Woody,114,,Defense investment,,growth,Natural
+Holdo 2003,"Fisher's Z, N",0.0898,0.030907818,9.55E-04,0.09,3.12E-02,9.71E-04,"Endara, 2011",Woody,1033,,Defense investment,,growth,Natural
+"Howlett & Davidson, 2001","Fisher's Z, N",0.959534006,3.63E-03,1.32E-05,1.94,0.045786855,2.10E-03,"Endara, 2011",Woody,480,,Defense investment,,growth,Natural
+Massey et al. 2007,"Fisher's Z, N",0.44624361,6.02E-02,3.62E-03,0.48,7.52E-02,5.65E-03,"Endara, 2011",Woody,180,,Defense investment,,growth,Natural
+Massey et al. 2007,"Fisher's Z, N",0.438199315,6.07E-02,3.69E-03,0.47,7.52E-02,5.65E-03,"Endara, 2011",Woody,180,,Defense investment,,growth,Natural
+Massey et al. 2007,"Fisher's Z, N",0.2069665,7.19E-02,5.18E-03,0.21,7.52E-02,5.65E-03,"Endara, 2011",Woody,180,,Defense investment,,growth,Natural
+Massey et al. 2007,"Fisher's Z, N",0.291312612,6.88E-02,4.73E-03,0.3,7.52E-02,5.65E-03,"Endara, 2011",Woody,180,,Defense investment,,growth,Natural
+Massey et al. 2007,"Fisher's Z, N",0.469945199,5.86E-02,3.43E-03,0.51,7.52E-02,5.65E-03,"Endara, 2011",Woody,180,,Defense investment,,growth,Natural
+"Matsuki, & Takayoshi, 2006","Fisher's Z, N",0.2069665,8.18E-02,6.69E-03,0.21,8.54E-02,7.30E-03,"Endara, 2011",Woody,140,,Defense investment,,growth,Natural
+"Matsuki, & Takayoshi, 2006","Fisher's Z, N",0.04,8.53E-02,7.28E-03,0.04,8.54E-02,7.30E-03,"Endara, 2011",Woody,140,,Defense investment,,growth,Natural
+"Matsuki, & Takayoshi, 2006","Fisher's Z, N",0.168381046,8.30E-02,6.89E-03,0.17,8.54E-02,7.30E-03,"Endara, 2011",Woody,140,,Defense investment,,growth,Natural
+"Matsuki, & Takayoshi, 2006","Fisher's Z, N",0.2069665,8.18E-02,6.69E-03,0.21,8.54E-02,7.30E-03,"Endara, 2011",Woody,140,,Defense investment,,growth,Natural
+"Matsuki, & Takayoshi, 2006","Fisher's Z, N",0.2069665,8.18E-02,6.69E-03,0.21,8.54E-02,7.30E-03,"Endara, 2011",Woody,140,,Defense investment,,growth,Natural
+Miller & Woodrow 2008,"Fisher's Z, N",0.966747288,6.78E-03,4.60E-05,2.04,0.103695169,0.010752688,"Endara, 2011",Woody,96,,Defense investment,,growth,Natural
+Miller & Woodrow 2008,"Fisher's Z, N",0.982674112,3.56E-03,1.27E-05,2.37,0.103695169,0.010752688,"Endara, 2011",Woody,96,,Defense investment,,growth,Natural
+"Reich, et al. 1992","Fisher's Z, N",0.69106947,3.10E-02,9.61E-04,0.85,5.93E-02,3.52E-03,"Endara, 2011",Woody,287,,Defense investment,,growth,Natural
+"Reich, et al. 1992","Fisher's Z, N",0.597982,3.81E-02,1.45E-03,0.69,5.93E-02,3.52E-03,"Endara, 2011",Woody,287,,Defense investment,,growth,Natural
+"Reich, et al. 1992","Fisher's Z, N",0.515359278,4.36E-02,1.90E-03,0.57,5.93E-02,3.52E-03,"Endara, 2011",Woody,287,,Defense investment,,growth,Natural
+"Reich, et al. 1997","Fisher's Z, N",0.66959026,5.31E-02,2.82E-03,0.81,9.62E-02,9.26E-03,"Endara, 2011",Woody,111,,Defense investment,,growth,Natural
+Shure & Wilson 1993,"Fisher's Z, N",0.371360228,0.055998866,3.14E-03,0.39,6.50E-02,4.22E-03,"Endara, 2011",Woody,240,,Defense investment,,growth,Natural
+Shure & Wilson 1993,"Fisher's Z, N",-0.77390834,2.61E-02,6.79E-04,-1.03,6.50E-02,4.22E-03,"Endara, 2011",Woody,240,,Defense investment,,growth,Natural
+Shure & Wilson 1993,"Fisher's Z, N",-0.77390834,2.61E-02,6.79E-04,-1.03,6.50E-02,4.22E-03,"Endara, 2011",Woody,240,,Defense investment,,growth,Natural
+Shure & Wilson 1993,"Fisher's Z, N",0.897652598,1.26E-02,1.59E-04,1.46,6.50E-02,4.22E-03,"Endara, 2011",Woody,240,,Defense investment,,growth,Natural
+Shure & Wilson 1993,"Fisher's Z, N",0.817754078,2.15E-02,4.63E-04,1.15,6.50E-02,4.22E-03,"Endara, 2011",Woody,240,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",-0.796878144,3.33E-02,1.11E-03,-1.09,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",-0.748704287,4.01E-02,1.61E-03,-0.97,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",-0.796878144,3.33E-02,1.11E-03,-1.09,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",-0.955373123,7.97E-03,6.35E-05,-1.89,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",-0.811019262,3.12E-02,9.76E-04,-1.13,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",-0.921668554,1.37E-02,1.89E-04,-1.6,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",-0.956237458,7.82E-03,6.11E-05,-1.9,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",0.982674112,3.14E-03,9.83E-06,2.37,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",-0.874053288,2.15E-02,4.64E-04,-1.35,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",0.19737532,8.77E-02,7.70E-03,0.2,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",0.551128029,6.36E-02,4.04E-03,0.62,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",-0.652706706,5.24E-02,2.75E-03,-0.78,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",0.918601893,1.43E-02,2.03E-04,1.58,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",0.757362324,3.89E-02,1.52E-03,0.99,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"Turner, 1995","Fisher's Z, N",0.967395001,5.86E-03,3.43E-05,2.05,9.13E-02,8.33E-03,"Endara, 2011",Woody,123,,Defense investment,,growth,Natural
+"De la Cruz & Dirzo, 1987","Fisher's Z, N",-0.049958375,2.62E-02,6.88E-04,-0.05,2.63E-02,6.91E-04,"Endara, 2011",Seedlings,1450,,herbivore damage,,growth,Natural
+Farji 2001,"Fisher's Z, N",0.963314219,6.66E-03,4.43E-05,1.99,9.25E-02,8.55E-03,"Endara, 2011",Woody,120,,herbivore damage,,growth,Natural
+Farji 2001,"Fisher's Z, N",0.97574313,4.43E-03,1.96E-05,2.2,9.25E-02,8.55E-03,"Endara, 2011",Woody,120,,herbivore damage,,growth,Natural
+"Howlett & Davidson, 2001","Fisher's Z, N",0.244918662,4.30E-02,1.85E-03,0.25,0.045786855,2.10E-03,"Endara, 2011",Woody,480,,herbivore damage,,growth,Natural
+"Lowman, 1992","Fisher's Z, N",0.833654607,7.47E-03,5.57E-05,1.2,2.45E-02,5.99E-04,"Endara, 2011",Woody,1672,,herbivore damage,,growth,Natural
+"Lowman, 1992","Fisher's Z, N",-0.988806982,5.45E-04,2.97E-07,-2.59,2.45E-02,5.99E-04,"Endara, 2011",Woody,1672,,herbivore damage,,growth,Natural
+Massey et al. 2007,"Fisher's Z, N",0.507977433,5.58E-02,3.11E-03,0.56,7.52E-02,5.65E-03,"Endara, 2011",Woody,180,,herbivore damage,,growth,Natural
+"Matsuki, & Takayoshi, 2006","Fisher's Z, N",0.148885034,8.35E-02,6.98E-03,0.15,8.54E-02,7.30E-03,"Endara, 2011",Woody,140,,herbivore damage,,growth,Natural
+Shure & Wilson 1993,"Fisher's Z, N",0.158648504,6.33E-02,4.01E-03,0.16,6.50E-02,4.22E-03,"Endara, 2011",Woody,240,,herbivore damage,,growth,Natural
+"Skarpe et. al., 2000","Fisher's Z, N",0.10955847,5.11E-02,2.61E-03,0.11,5.17E-02,2.67E-03,"Endara, 2011",Woody,377,,herbivore damage,,growth,Natural
+"Skarpe et. al., 2000","Fisher's Z, N",0.119427299,3.68E-02,1.36E-03,0.12,3.73E-02,1.39E-03,"Endara, 2011",Woody,720,,herbivore damage,,growth,Natural
+"Skarpe et. al., 2000","Fisher's Z, N",0.119427299,3.68E-02,1.36E-03,0.12,3.73E-02,1.39E-03,"Endara, 2011",Woody,720,,herbivore damage,,growth,Natural
+"Smith & Nufio, 2004","Fisher's Z, N",0.94022664,4.75E-03,2.25E-05,1.74,4.09E-02,1.68E-03,"Endara, 2011",Woody,600,,herbivore damage,,growth,Natural
+"Southwood, 1986","Fisher's Z, N",0.84828364,7.50E-03,5.63E-05,1.25,2.68E-02,7.16E-04,"Endara, 2011","Herbs, Woody",1400,,herbivore damage,,growth,Natural
+"Vasconcelos, 1999","Fisher's Z, N",-0.44624361,3.33E-02,1.11E-03,-0.48,4.16E-02,1.73E-03,"Endara, 2011",Woody,581,,herbivore damage,,growth,Natural
+"Vasconcelos, 1999","Fisher's Z, N",-0.735222253,1.95E-02,3.80E-04,-0.94,4.24E-02,1.80E-03,"Endara, 2011",Herbs,559,,herbivore damage,,growth,Natural
+"Vasconcelos, 1999","Fisher's Z, N",0.178080868,9.19E-02,8.45E-03,0.18,9.49E-02,9.01E-03,"Endara, 2011",Herbs,114,,herbivore damage,,growth,Natural
+Wilf et al. 2001,"Fisher's Z, N",0.789461221,7.64E-03,5.84E-05,1.07,2.03E-02,4.11E-04,"Endara, 2011",Herbs,2435,,herbivore damage,,growth,Natural
+Lowman 1992,"Fisher's Z, N",0.999601201,1.26E-05,1.59E-10,4.26,1.58E-02,2.50E-04,"Endara, 2011",Woody,4002,,Leaf lifespan,,growth,Natural
+Lowman 1992,"Fisher's Z, N",0.986071822,4.37E-04,1.91E-07,2.48,1.58E-02,2.50E-04,"Endara, 2011",Woody,4002,,Leaf lifespan,,growth,Natural
+Lowman 1992,"Fisher's Z, N",0.989866741,3.19E-04,1.02E-07,2.64,1.58E-02,2.50E-04,"Endara, 2011",Woody,4002,,Leaf lifespan,,growth,Natural
+Lowman 1992,"Fisher's Z, N",0.996334122,1.16E-04,1.34E-08,3.15,1.58E-02,2.50E-04,"Endara, 2011",Woody,4002,,Leaf lifespan,,growth,Natural
+Reicht et al. 1992,"Fisher's Z, N",0.604367777,3.77E-02,1.42E-03,0.7,5.93E-02,3.52E-03,"Endara, 2011",Woody,287,,Leaf lifespan,,growth,Natural
+Reicht et al. 1992,"Fisher's Z, N",0.889598924,1.24E-02,1.53E-04,1.42,5.93E-02,3.52E-03,"Endara, 2011",Woody,287,,Leaf lifespan,,growth,Natural
+Reicht et al. 1992,"Fisher's Z, N",0.71629787,2.89E-02,8.35E-04,0.9,5.93E-02,3.52E-03,"Endara, 2011",Woody,287,,Leaf lifespan,,growth,Natural
+Reicht et al. 1992,"Fisher's Z, N",0.885351648,1.28E-02,1.65E-04,1.4,5.93E-02,3.52E-03,"Endara, 2011",Woody,287,,Leaf lifespan,,growth,Natural
+Shure & Wilson 1993,Independent groups (std difference),0.730600984,1.82E-02,3.32E-04,0.930015204,0.039080875,1.53E-03,"Endara, 2011",Woody,240,,Plant Growth,,resources,Natural
+Shure & Wilson 1993,Independent groups (std difference),0.925031738,4.98E-03,2.48E-05,1.622816442,0.034525297,1.19E-03,"Endara, 2011",Woody,240,,Plant Growth,,resources,Natural
+"Ancona and Loughry, 2009","Corr, N",0.11,0.072050013,5.19E-03,0.110446916,7.29E-02,5.32E-03,Garamszegi 2012,Dasypus novemcinctus,191,,,,,
+"Bell and Sih, 2007","Corr, N",0.143,8.98E-02,8.06E-03,0.143986873,9.17E-02,8.40E-03,Garamszegi 2012,Gasterosteus aculeatus,122,,,,,
+"Bell et al., 2010","Corr, N",0.164,7.67E-02,5.88E-03,0.165494508,7.88E-02,6.21E-03,Garamszegi 2012,Gasterosteus aculeatus,164,,,,,
+"Boon et al., 2008","Corr, N",0.54,7.27E-02,5.28E-03,0.604155603,0.102597835,1.05E-02,Garamszegi 2012,Tamiasciurus hudsonicus,98,,,,,
+"Cote et al., 2010","Corr, N",0.27,6.10E-02,3.72E-03,0.276863823,6.58E-02,4.33E-03,Garamszegi 2012,Gambusia affinis,234,,,,,
+"Herborn et al., 2010","Corr, N",0.112,9.29E-02,8.63E-03,0.112471866,9.41E-02,8.85E-03,Garamszegi 2012,Cyanistes caeruleus,116,,,,,
+"Korpela et al., 2011","Corr, N",0.451,5.79E-02,3.36E-03,0.485954906,7.27E-02,5.29E-03,Garamszegi 2012,Myodes glareolus,192,,,,,
+"Nilsson et al., 2010","Corr, N",0.01,0.101524463,1.03E-02,1.00E-02,0.101534617,1.03E-02,Garamszegi 2012,Cyanistes caeruleus,100,,,,,
+"Weiss et al., 2011","Corr, N",0.123,0.094769256,8.98E-03,0.123625981,9.62E-02,9.26E-03,Garamszegi 2012,Macaca mulatta,111,,,,,
+"Wilson et al., 2011","Corr, N",0.31,7.90E-02,0.00623691,0.320545409,8.74E-02,7.63E-03,Garamszegi 2012,Lepomis macrochirus,134,,,,,
+"Moller, 1995","Corr, N",0.01,3.81E-02,1.45E-03,0.01,3.81E-02,1.45E-03,"Leung & Forbes, 1986",Hirundo rustica,691,,Fitness,,tail,Natural
+"Moller, 1995","Corr, N",0.06,3.80E-02,1.44E-03,0.0601,3.81E-02,1.45E-03,"Leung & Forbes, 1986",Hirundo rustica,691,,Fitness,,tail,Natural
+Clarke+'90,"Corr, N",0.295,5.45E-02,2.97E-03,0.304034086,5.97E-02,3.56E-03,"Leung & Forbes, 1986",Musca vetustissima,284,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.162,5.65E-02,3.19E-03,0.163439918,5.80E-02,3.37E-03,"Leung & Forbes, 1986",Musca vetustissima,300,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.26,5.41E-02,2.93E-03,0.266108407,5.80E-02,3.37E-03,"Leung & Forbes, 1986",Musca vetustissima,300,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.377,5.12E-02,2.62E-03,0.39655799,5.97E-02,3.56E-03,"Leung & Forbes, 1986",Musca vetustissima,284,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.17,5.63E-02,3.18E-03,0.171666664,5.80E-02,3.37E-03,"Leung & Forbes, 1986",Musca vetustissima,300,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.23,5.50E-02,3.02E-03,0.234189467,5.80E-02,3.37E-03,"Leung & Forbes, 1986",Musca vetustissima,300,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.34,5.58E-02,3.12E-03,0.354092529,6.31E-02,3.98E-03,"Leung & Forbes, 1986",Musca vetustissima,254,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.192,5.89E-02,3.47E-03,0.194412895,6.12E-02,3.75E-03,"Leung & Forbes, 1986",Musca vetustissima,270,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.186,5.91E-02,3.49E-03,0.188190607,6.12E-02,3.75E-03,"Leung & Forbes, 1986",Musca vetustissima,270,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.381,5.40E-02,2.91E-03,0.40122894,6.31E-02,3.98E-03,"Leung & Forbes, 1986",Musca vetustissima,254,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.206,5.86E-02,3.43E-03,0.208990458,6.12E-02,3.75E-03,"Leung & Forbes, 1986",Musca vetustissima,270,,Stress,,wingvein,Man-made
+Clarke+'90,"Corr, N",0.212,5.84E-02,3.42E-03,0.215264538,6.12E-02,3.75E-03,"Leung & Forbes, 1986",Musca vetustissima,270,,Stress,,wingvein,Man-made
+"Moller, 1995","Corr, N",-0.06,3.80E-02,1.44E-03,-0.0601,3.81E-02,1.45E-03,"Leung & Forbes, 1986",Hirundo rustica,691,,Fitness,,tail,Natural
+Evans (2010),"Fisher's Z, Var",2.00E-02,4.47E-02,2.00E-03,0.02,4.47E-02,0.002,"Mautz, 2013",Poecilia reticulata,449,,Viability,Experiment Type,Courtship,Natural
+Evans (2010),"Fisher's Z, Var",-4.00E-02,4.46E-02,1.99E-03,-0.04,4.47E-02,0.002,"Mautz, 2013",Poecilia reticulata,450,,Speed,,Iridescence,Natural
+Evans (2010),"Fisher's Z, Var",-1.00E-02,4.47E-02,2.00E-03,-0.01,4.47E-02,0.002,"Mautz, 2013",Poecilia reticulata,449,,Viability,,Iridescence,Natural
+Evans (2010),"Fisher's Z, Var",-0.049958375,4.46E-02,1.99E-03,-0.05,4.47E-02,0.002,"Mautz, 2013",Poecilia reticulata,450,,Speed,,Relative black area,Natural
+Evans (2010),"Fisher's Z, Var",-0.06988589,4.45E-02,1.98E-03,-0.07,4.47E-02,0.002,"Mautz, 2013",Poecilia reticulata,449,,Viability,,Relative orange area,Natural
+Evans (2010),"Fisher's Z, Var",9.97E-02,4.43E-02,1.96E-03,0.1,4.47E-02,0.002,"Mautz, 2013",Poecilia reticulata,450,,Speed,,Spot number,Natural
+Evans (2010),"Fisher's Z, Var",0.119427299,4.41E-02,1.94E-03,0.12,4.47E-02,0.002,"Mautz, 2013",Poecilia reticulata,449,,Viability,,Spot number,Natural
+Evans (2010),"Fisher's Z, Var",2.00E-02,0.141364803,2.00E-02,0.02,0.141421356,0.02,"Mautz, 2013",Poecilia reticulata,450,,Speed,,Tail area,Natural
+Evans (2010),"Fisher's Z, Var",0.119427299,0.341469355,0.11660132,0.12,0.346410162,0.12,"Mautz, 2013",Poecilia reticulata,449,,Viability,,Tail area,Natural
+Evans (2010),"Fisher's Z, Var",-9.97E-02,0.140016518,1.96E-02,-0.1,0.141421356,0.02,"Mautz, 2013",Poecilia reticulata,450,,Speed,,Courtship,Natural
+Locatello et al. (2006),"Fisher's Z, Var",0.263624835,9.31E-02,8.66E-03,0.27,0.1,0.01,"Mautz, 2013",Poecilia reticulata,106,,Speed,,Relative orange area,Natural
+Locatello et al. (2006),"Fisher's Z, Var",3.00E-02,9.99E-02,9.98E-03,0.03,0.1,0.01,"Mautz, 2013",Poecilia reticulata,106,,Speed,,Relative orange area,Natural
+Locatello et al. (2006),"Fisher's Z, Var",0.272905081,0.092552282,8.57E-03,0.28,0.1,0.01,"Mautz, 2013",Poecilia reticulata,106,,Speed,,Relative orange area,Natural
+Zajitschek & Brooks (2010),"Fisher's Z, Var",0.10955847,7.65E-02,5.86E-03,0.11,7.75E-02,0.006,"Mautz, 2013",Poecilia reticulata,163,,Quantity,,Iridescence,Natural
+Zajitschek & Brooks (2010),"Fisher's Z, Var",-0.178080868,7.50E-02,5.63E-03,-0.18,7.75E-02,0.006,"Mautz, 2013",Poecilia reticulata,163,,Quantity,,Relative black area,Natural
+Zajitschek & Brooks (2010),"Fisher's Z, Var",0.178080868,7.50E-02,5.63E-03,0.18,7.75E-02,0.006,"Mautz, 2013",Poecilia reticulata,163,,Quantity,,Relative black area,Natural
+Zajitschek & Brooks (2010),"Fisher's Z, Var",-4.00E-02,7.73E-02,5.98E-03,-0.04,7.75E-02,0.006,"Mautz, 2013",Poecilia reticulata,163,,Quantity,,Relative orange area,Natural
+"Blakey, 1994","Corr, N",-0.083,0.10410632,1.08E-02,-8.32E-02,0.104828484,0.010989011,"Moller & Ninni, 1998",Parus major,94,,Paternity,,Male Age,Natural
+"Blakey, 1994","Corr, N",-0.196,0.100801393,1.02E-02,-0.198569333,0.104828484,0.010989011,"Moller & Ninni, 1998",Parus major,94,,Paternity,,Female Age,Natural
+"Blakey, 1994","Corr, N",-0.264,9.75E-02,9.51E-03,-0.270403228,0.104828484,0.010989011,"Moller & Ninni, 1998",Parus major,94,,Paternity,,Male Tarsus,Natural
+"Bollinger & Gavin, 1991","Corr, N",-0.206,0.069837532,4.88E-03,-0.208990458,7.29E-02,5.32E-03,"Moller & Ninni, 1998",Dolichonyx oryzivorus,191,,Paternity,,Male Age,Natural
+"Bollinger & Gavin, 1991","Corr, N",0.131,7.17E-02,5.14E-03,0.131757175,7.29E-02,5.32E-03,"Moller & Ninni, 1998",Dolichonyx oryzivorus,191,,Paternity,,Female Age,Natural
+"Bollinger & Gavin, 1991","Corr, N",0.038,7.28E-02,5.30E-03,3.80E-02,7.29E-02,5.32E-03,"Moller & Ninni, 1998",Dolichonyx oryzivorus,191,,Paternity,,Polygyny,Natural
+Gowaty & Bridges,"Corr, N",-0.095,5.21E-02,0.002712794,-9.53E-02,5.26E-02,2.76E-03,"Moller & Ninni, 1998",Sialia sialis,365,,Paternity,,Laying Date,Natural
+Hasselquist et al. 1995,"Corr, N",0.23,8.40E-02,7.06E-03,0.234189467,8.87E-02,7.87E-03,"Moller & Ninni, 1998",Acrocephalus arundinaceus,130,,Paternity,,Density,Natural
+Hasselquist et al. 1995,"Corr, N",0.122,8.74E-02,7.64E-03,0.122610746,8.87E-02,7.87E-03,"Moller & Ninni, 1998",Acrocephalus arundinaceus,130,,Paternity,,Mate guarding,Natural
+Kempenaers et al. 1995,"Corr, N",0.054,9.22E-02,8.50E-03,5.41E-02,9.25E-02,8.55E-03,"Moller & Ninni, 1998",Parus caeruleus,120,,Paternity,,Polygyny,Natural
+Kempenaers et al. 1995,"Corr, N",0.07,9.12E-02,8.32E-03,7.01E-02,9.17E-02,8.40E-03,"Moller & Ninni, 1998",Parus caeruleus,122,,Paternity,,Hatching Success,Natural
+Kempenaers et al. 1995,"Corr, N",-0.065,8.36E-02,0.006982872,-6.51E-02,8.39E-02,7.04E-03,"Moller & Ninni, 1998",Parus caeruleus,145,,Paternity,,Male Age,Natural
+Kempenaers et al. 1995,"Corr, N",-0.076,8.56E-02,7.32E-03,-7.61E-02,0.086066297,7.41E-03,"Moller & Ninni, 1998",Parus caeruleus,138,,Paternity,,Male Wing,Natural
+Kempenaers et al. 1995,"Corr, N",-0.194,8.28E-02,6.86E-03,-0.196490276,0.086066297,7.41E-03,"Moller & Ninni, 1998",Parus caeruleus,138,,Paternity,,Male Tarsus,Natural
+"Reyer et al., 1997","Corr, N",-0.253,0.05861403,3.44E-03,-0.258615385,0.062622429,3.92E-03,"Moller & Ninni, 1998",Anthus spinoletta,258,,Paternity,,Synchrony,Natural
+"Reyer et al., 1997","Corr, N",0.118,0.061750474,3.81E-03,0.118552299,0.062622429,3.92E-03,"Moller & Ninni, 1998",Anthus spinoletta,258,,Paternity,,Brood,Natural
+"Reyer et al., 1997","Corr, N",-0.104,6.19E-02,3.84E-03,-0.104377407,0.062622429,3.92E-03,"Moller & Ninni, 1998",Anthus spinoletta,258,,Paternity,,Male Survival,Natural
+"Soukup and Thompson, 1997","Corr, N",-0.09,0.09919,0.009838656,-9.02E-02,0.1,0.01,"Moller & Ninni, 1998",Troglodytes aedon,103,,Paternity,,Male Age,Natural
+"Soukup and Thompson, 1997","Corr, N",-0.034,9.20E-02,8.45E-03,-3.40E-02,9.21E-02,8.47E-03,"Moller & Ninni, 1998",Troglodytes aedon,121,,Paternity,,Female Age,Natural
+"Soukup and Thompson, 1997","Corr, N",0.094,4.60E-02,2.11E-03,9.43E-02,4.64E-02,2.15E-03,"Moller & Ninni, 1998",Troglodytes aedon,468,,Paternity,,Polygyny,Natural
+"Soukup and Thompson, 1997","Corr, N",0.084,4.60E-02,2.12E-03,8.42E-02,4.64E-02,2.15E-03,"Moller & Ninni, 1998",Troglodytes aedon,468,,Paternity,,Laying Date,Natural
+"Weatherhead & Boag, 1995","Corr, N",0.02,0.103653691,1.07E-02,2.00E-02,0.103695169,0.010752688,"Moller & Ninni, 1998",Agelaius phoeniceus,96,,Paternity,,Male tarsus,Natural
+"Weatherhead, 1997","Corr, N",-0.009,6.13E-02,3.76E-03,-9.00E-03,6.13E-02,3.76E-03,"Moller & Ninni, 1998",Agelaius phoeniceus,269,,Paternity,,Synchrony,Natural
+"Westneat, 1987","Corr, N",0.108,0.101401134,1.03E-02,0.108422867,0.102597835,1.05E-02,"Moller & Ninni, 1998",Passerina cyanea,98,,Paternity,,Male Age,Natural
+"Westneat, 1987","Corr, N",-0.091,0.101748223,1.04E-02,-0.091252446,0.102597835,1.05E-02,"Moller & Ninni, 1998",Passerina cyanea,98,,Paternity,,Polygyny,Natural
+"Wetton & Parkin, 1991","Corr, N",-0.225,8.00E-02,6.39E-03,-0.228916547,8.42E-02,7.09E-03,"Moller & Ninni, 1998",Passer domesticus,144,,Paternity,,Hatching Success,Natural
+"Bailit et. al., 1970","Corr, N",0.035,9.52E-02,9.07E-03,3.50E-02,9.53E-02,9.09E-03,"Moller & Thornhill, 1997",Homo sapiens,113,,Heritability,,Dental traits,
+Bener & Erk. 1979,"Corr, N",0.0917,4.84E-02,2.34E-03,0.091958336,4.88E-02,2.38E-03,"Moller & Thornhill, 1997",Homo sapiens,423,,Heritability,,,
+"Bener, 1979","Corr, N",0.0698,4.73E-02,2.24E-03,6.99E-02,4.76E-02,2.26E-03,"Moller & Thornhill, 1997",Homo sapiens,445,,Heritability,,,
+"Hagen, 1973","Corr, N",0.3763,8.95E-02,8.01E-03,0.395742267,0.104257207,1.09E-02,"Moller & Thornhill, 1997",Gasterosteus aculeatus,95,,Heritability,,,
+"Holt, 1954","Corr, N",-0.0475,9.03E-02,8.16E-03,-4.75E-02,9.05E-02,8.20E-03,"Moller & Thornhill, 1997",Homo sapiens,125,,Heritability,,,
+"Livshits & Kobyliansky, 1989","Corr, N",0.224,5.75E-02,3.30E-03,0.227863471,6.05E-02,3.66E-03,"Moller & Thornhill, 1997",Homo sapiens,276,,Heritability,,,
+Loesch & Martin,"Corr, N",0.225,0.054995817,3.02E-03,0.228916547,5.79E-02,3.36E-03,"Moller & Thornhill, 1997",Homo sapiens,423,,Heritability,,,
+"Martin et. al., 1982","Corr, N",0.3008,6.16E-02,3.79E-03,0.310398957,6.77E-02,4.59E-03,"Moller & Thornhill, 1997",Homo sapiens,221,,Heritability,,,
+"McGrath et al., 1984","Corr, N",0.0647,8.73E-02,7.63E-03,6.48E-02,8.77E-02,7.69E-03,"Moller & Thornhill, 1997",Macaca mulatta,133,,Heritability,,,
+"Mi & Rashad, 1977","Corr, N",0.0797,3.73E-02,1.39E-03,7.99E-02,3.76E-02,1.41E-03,"Moller & Thornhill, 1997",Homo sapiens,711,,Heritability,,,
+"Parker & Leamy, 1991","Corr, N",0.1008,7.05E-02,4.97E-03,0.101143494,7.12E-02,5.08E-03,"Moller & Thornhill, 1997",Mus musculus,200,,Heritability,,,
+"Singh, 1970","Corr, N",0.154,8.05E-02,6.48E-03,0.155235044,8.25E-02,6.80E-03,"Moller & Thornhill, 1997",Homo sapiens,150,,Heritability,,,
+"Andrew et al., 2012","Fisher's Z, N",0.485381091,5.31E-02,2.82E-03,0.53,6.95E-02,4.83E-03,Shafer 2013,Dune sunflower,210,,Isolation by habitat type w/o distance,Field,,
+"Banks et al., 2010","Fisher's Z, N",0.291312612,0.07472062,5.58E-03,0.3,8.16E-02,6.67E-03,Shafer 2013,Sea urchin,153,,Isolation by coastal topography w/o distance,Field,,
+"Banks et al., 2010","Fisher's Z, N",0.362707468,7.09E-02,5.03E-03,0.38,8.16E-02,6.67E-03,Shafer 2013,Sea urchin,153,,Isolation by temperature w/o distance,Field,,
+"Banks et al., 2010","Fisher's Z, N",0.379948962,6.99E-02,4.88E-03,0.4,8.16E-02,6.67E-03,Shafer 2013,Sea urchin,153,,Isolation by temperature w/o distance,Field,,
+"Banks et al., 2010","Fisher's Z, N",0.38847268,6.93E-02,4.81E-03,0.41,8.16E-02,6.67E-03,Shafer 2013,Sea urchin,153,,Isolation by temperature w/o distance,Field,,
+"Case et al., 2005","Fisher's Z, N",2.00E-02,6.32E-02,4.00E-03,0.02,6.32E-02,0.004,Shafer 2013,Atlantic cod,253,,Isolation by salinity w/o distance,Field,,
+"Case et al., 2005","Fisher's Z, N",0.168381046,8.43E-02,7.10E-03,0.17,0.086710997,7.52E-03,Shafer 2013,Atlantic cod,136,,Isolation by temperature w/o distance,Field,,
+"Case et al., 2005","Fisher's Z, N",0.309506921,0.078404557,6.15E-03,0.32,0.086710997,7.52E-03,Shafer 2013,Atlantic cod,136,,Isolation by salinity w/o distance,Field,,
+"Cook et al., 2010","Fisher's Z, N",-0.263624835,8.07E-02,6.51E-03,-0.27,0.086710997,7.52E-03,Shafer 2013,Mogurnda,136,,Isolation by elevation w/ distance,Field,,
+"Cook et al., 2010","Fisher's Z, N",8.98E-02,0.086012413,7.40E-03,0.09,0.086710997,7.52E-03,Shafer 2013,Mogurnda,136,,Isolation by elevation w/o distance,Field,,
+"Crispo et al., 2005","Fisher's Z, N",0,7.31E-02,5.35E-03,0,7.31E-02,5.35E-03,Shafer 2013,Trinidadian guppy,190,,Isolation by habitat w/ distance,Field,,
+"Garnier et al., 2009","Fisher's Z, N",0.591519395,3.93E-02,1.55E-03,0.68,6.05E-02,3.66E-03,Shafer 2013,Ground beetle,276,,Isolation by morphology w/o distance,Field,,
+"Garnier et al., 2009","Fisher's Z, N",0.69106947,1.83E-02,3.34E-04,0.85,0.034985571,1.22E-03,Shafer 2013,Ground beetle,820,,Isolation by morphology w/ distance,Field,,
+"Geffen et al., 2004","Fisher's Z, N",5.99E-02,0.098659155,9.73E-03,0.06,9.90E-02,9.80E-03,Shafer 2013,Grey wolves,105,,Isolation by rainfall w/o distance,Field,,
+"Geffen et al., 2004","Fisher's Z, N",8.98E-02,9.82E-02,9.65E-03,0.09,9.90E-02,9.80E-03,Shafer 2013,Grey wolves,105,,Isolation by temperature w/o distance,Field,,
+"Geffen et al., 2004","Fisher's Z, N",0.19737532,9.52E-02,9.05E-03,0.2,9.90E-02,9.80E-03,Shafer 2013,Grey wolves,105,,Isolation by vegetation w/o distance,Field,,
+"Geffen et al., 2004","Fisher's Z, N",0.187746206,0.095524619,9.12E-03,0.19,9.90E-02,9.80E-03,Shafer 2013,Grey wolves,105,,Isolation by habitat w/o distance,Field,,
+"Geffen et al., 2004","Fisher's Z, N",0.158648504,9.65E-02,9.32E-03,0.16,9.90E-02,9.80E-03,Shafer 2013,Grey wolves,105,,Isolation by climate w/o distance,Field,,
+"Hutsemekers et al., 2009","Fisher's Z, N",0.597982,1.84E-02,3.38E-04,0.69,2.86E-02,8.18E-04,Shafer 2013,Aquatic moss,1225,,Isolation by environment w/o distance,Field,,
+"Hutsemekers et al., 2009","Fisher's Z, N",0.158648504,2.79E-02,7.78E-04,0.16,2.86E-02,8.18E-04,Shafer 2013,Aquatic moss,1225,,Isolation by environment w/ distance,Field,,
+"Hutsemekers et al., 2009","Fisher's Z, N",0.300437097,5.51E-02,3.03E-03,0.31,6.05E-02,3.66E-03,Shafer 2013,Aquatic moss,276,,Isolation by environment w/ distance,Field,,
+"Anderson & Geber, 2010","Fisher's Z, N",0.2069665,9.48E-02,8.98E-03,0.21,9.90E-02,9.80E-03,Shafer 2013,Elliot’s blueberry,105,,Isolation by life history w/o distance,Lab,,
+"Andrew et al., 2012","Fisher's Z, N",0.454216433,0.05516509,3.04E-03,0.49,6.95E-02,4.83E-03,Shafer 2013,Dune sunflower,210,,Isolation by habitat type w/ distance,Lab,,
+"Baer et al., 2004","Fisher's Z, N",-4.00E-02,1.14E-02,1.31E-04,-0.04,1.15E-02,1.31E-04,Shafer 2013,Parisitoid wasp,7626,,Isolation by host use w/o distance,Lab,,
+"Baer et al., 2004","Fisher's Z, N",0,7.84E-03,6.14E-05,0,7.84E-03,6.14E-05,Shafer 2013,Parisitoid wasp,16290,,Isolation by host use w/ distance,Lab,,
+"Banks et al., 2010","Fisher's Z, N",0.148885034,7.98E-02,6.37E-03,0.15,8.16E-02,6.67E-03,Shafer 2013,Sea urchin,153,,Isolation by coastal topography w/o distance,Lab,,
+"Banks et al., 2010","Fisher's Z, N",0.216518061,7.78E-02,6.06E-03,0.22,8.16E-02,6.67E-03,Shafer 2013,Sea urchin,153,,Isolation by coastal topography w/o distance,Lab,,
+"Banks et al., 2010","Fisher's Z, N",0.263624835,7.60E-02,5.77E-03,0.27,8.16E-02,6.67E-03,Shafer 2013,Sea urchin,153,,Isolation by temperature w/o distance,Lab,,
+"Banks et al., 2010","Fisher's Z, N",0.282134813,7.52E-02,5.65E-03,0.29,8.16E-02,6.67E-03,Shafer 2013,Sea urchin,153,,Isolation by coastal topography w/o distance,Lab,,
+"Bjørnstad et al., 1995","Fisher's Z, N",0.168381046,5.53E-03,3.06E-05,0.17,5.69E-03,3.24E-05,Shafer 2013,Poa,30876,,Isolation by floral morphology w/o distance,Lab,,
+"Bjørnstad et al., 1995","Fisher's Z, N",0.049958375,5.68E-03,3.22E-05,0.05,5.69E-03,3.24E-05,Shafer 2013,Poa,30876,,Isolation by floral morphology w/ distance,Lab,,
+"Bradbury et al., 2006","Fisher's Z, N",0.327477395,6.21E-02,3.85E-03,0.34,6.95E-02,4.83E-03,Shafer 2013,Rainbow smelt,210,,Isolation by morphology w/o distance,Lab,,
+"Bradbury et al., 2006","Fisher's Z, N",0.327477395,6.21E-02,3.85E-03,0.34,6.95E-02,4.83E-03,Shafer 2013,Rainbow smelt,210,,Isolation by morphology w/o distance,Lab,,
+"Bradbury et al., 2006","Fisher's Z, N",0.272905081,6.43E-02,4.14E-03,0.28,6.95E-02,4.83E-03,Shafer 2013,Rainbow smelt,210,,Isolation by morphology w/ distance,Lab,,
+"Bradbury et al., 2006","Fisher's Z, N",0.282134813,6.40E-02,4.09E-03,0.29,6.95E-02,4.83E-03,Shafer 2013,Rainbow smelt,210,,Isolation by morphology w/ distance,Lab,,
+"Cabanne et al., 2011","Fisher's Z, N",0.168381046,7.47E-02,5.59E-03,0.17,7.69E-02,5.92E-03,Shafer 2013,Woodcreeper,172,,Isolation by habitat w/o distance,Lab,,
+"Cabanne et al., 2011","Fisher's Z, N",0.353991712,6.73E-02,4.53E-03,0.37,7.69E-02,5.92E-03,Shafer 2013,Woodcreeper,172,,Isolation by plumage w/o distance,Lab,,
+"Case et al., 2005","Fisher's Z, N",0.362707468,5.49E-02,3.02E-03,0.38,6.32E-02,0.004,Shafer 2013,Atlantic cod,253,,Isolation by temperature w/ distance,Lab,,
+"Case et al., 2005","Fisher's Z, N",0.62306535,3.87E-02,1.50E-03,0.73,6.32E-02,0.004,Shafer 2013,Atlantic cod,253,,Isolation by temperature w/o distance,Lab,,
+"Case et al., 2005","Fisher's Z, N",0.396930432,0.073049353,5.34E-03,0.42,0.086710997,7.52E-03,Shafer 2013,Atlantic cod,136,,Isolation by depth w/o distance,Lab,,
+"Case et al., 2005","Fisher's Z, N",0.777888067,2.50E-02,6.24E-04,1.04,6.32E-02,0.004,Shafer 2013,Atlantic cod,253,,Isolation by latitude w/o distance,Lab,,
+"Case et al., 2005","Fisher's Z, N",0.500520211,6.50E-02,4.22E-03,0.55,0.086710997,7.52E-03,Shafer 2013,Atlantic cod,136,,Isolation by salinity w/o distance,Lab,,
+"Case et al., 2005","Fisher's Z, N",0.70641932,4.34E-02,1.89E-03,0.88,0.086710997,7.52E-03,Shafer 2013,Atlantic cod,136,,Isolation by depth w/o distance,Lab,,
+"Case et al., 2005","Fisher's Z, N",0.82427217,2.78E-02,7.73E-04,1.17,0.086710997,7.52E-03,Shafer 2013,Atlantic cod,136,,Isolation by temperature w/o distance,Lab,,
+"Chan & Arcese, 2003","Fisher's Z, N",0.119427299,0.102216178,1.04E-02,0.12,0.103695169,0.010752688,Shafer 2013,Song sparrow,96,,Isolation by morphology w/o distance,Lab,,
+"Chan & Arcese, 2003","Fisher's Z, N",-0.158648504,0.10108523,1.02E-02,-0.16,0.103695169,0.010752688,Shafer 2013,Song sparrow,96,,Isolation by morphology w/ distance,Lab,,
+"Chan & Arcese, 2003","Fisher's Z, N",0.345214034,0.091337533,8.34E-03,0.36,0.103695169,0.010752688,Shafer 2013,Song sparrow,96,,Isolation by salinity w/o distance,Lab,,
+"Cook et al., 2010","Fisher's Z, N",8.98E-02,0.086012413,7.40E-03,0.09,0.086710997,7.52E-03,Shafer 2013,Mogurnda,136,,Isolation by elevation w/o distance,Lab,,
+"Cook et al., 2010","Fisher's Z, N",-0.610676833,5.44E-02,2.96E-03,-0.71,0.086710997,7.52E-03,Shafer 2013,Mogurnda,136,,Isolation by elevation w/ distance,Lab,,
+"Crispo et al., 2005","Fisher's Z, N",5.99E-02,7.29E-02,5.31E-03,0.06,7.31E-02,5.35E-03,Shafer 2013,Trinidadian guppy,190,,Isolation by predators w/ distance,Lab,,
+"Crispo et al., 2005","Fisher's Z, N",-0.318520777,6.57E-02,4.32E-03,-0.33,7.31E-02,5.35E-03,Shafer 2013,Trinidadian guppy,190,,Isolation by predators w/ distance,Lab,,
+"Crispo et al., 2005","Fisher's Z, N",0.119427299,7.21E-02,5.20E-03,0.12,7.31E-02,5.35E-03,Shafer 2013,Trinidadian guppy,190,,Isolation by habitat w/ distance,Lab,,
+"Crispo et al., 2005","Fisher's Z, N",1.00E-02,7.31E-02,5.35E-03,0.01,7.31E-02,5.35E-03,Shafer 2013,Trinidadian guppy,190,,Isolation by habitat w/ distance,Lab,,
+"Crispo et al., 2005","Fisher's Z, N",4.00E-02,7.30E-02,5.33E-03,0.04,7.31E-02,5.35E-03,Shafer 2013,Trinidadian guppy,190,,Isolation by habitat w/ distance,Lab,,
+"David et al., 2003","Fisher's Z, N",0.187746206,0.06389222,4.08E-03,0.19,6.62E-02,4.39E-03,Shafer 2013,Mosquitoes,231,,Isolation by elevation w/o distance,Lab,,
+"Dionne et al., 2008","Fisher's Z, N",0.2069665,2.68E-02,7.20E-04,0.21,2.80E-02,7.86E-04,Shafer 2013,Atlantic salmon,1275,,Isolation by temperature w/o distance,Lab,,
+"Dionne et al., 2008","Fisher's Z, N",0.362707468,3.04E-02,9.23E-04,0.38,0.034985571,1.22E-03,Shafer 2013,Atlantic salmon,820,,Isolation by temperature w/o distance,Lab,,
+"Dionne et al., 2008","Fisher's Z, N",0.629145161,4.93E-02,2.43E-03,0.74,8.16E-02,6.67E-03,Shafer 2013,Atlantic salmon,153,,Isolation by temperature w/o distance,Lab,,
+"Dionne et al., 2008","Fisher's Z, N",3.00E-02,0.028013388,7.85E-04,0.03,2.80E-02,7.86E-04,Shafer 2013,Atlantic salmon,1275,,Isolation by temperature w/ distance,Lab,,
+"Dionne et al., 2008","Fisher's Z, N",0.336375544,3.10E-02,9.63E-04,0.35,0.034985571,1.22E-03,Shafer 2013,Atlantic salmon,820,,Isolation by temperature w/ distance,Lab,,
+"Dionne et al., 2008","Fisher's Z, N",0.558052216,5.62E-02,3.16E-03,0.63,8.16E-02,6.67E-03,Shafer 2013,Atlantic salmon,153,,Isolation by temperature w/ distance,Lab,,
+"Drummond & Hamilton, 2006","Fisher's Z, N",0.38847268,4.09E-02,1.67E-03,0.41,4.81E-02,2.31E-03,Shafer 2013,Herbaceous plant,435,,Isolation by phenotype w/o distance,Lab,,
+"Drummond & Hamilton, 2006","Fisher's Z, N",0.362707468,4.18E-02,1.75E-03,0.38,4.81E-02,2.31E-03,Shafer 2013,Herbaceous plant,435,,Isolation by phenotype w/ distance,Lab,,
+"Garnier et al., 2009","Fisher's Z, N",0.477700012,4.67E-02,2.18E-03,0.52,6.05E-02,3.66E-03,Shafer 2013,Ground beetle,276,,Isolation by morphology w/o distance,Lab,,
+"Garnier et al., 2009","Fisher's Z, N",0.578363413,2.33E-02,5.42E-04,0.66,0.034985571,1.22E-03,Shafer 2013,Ground beetle,820,,Isolation by morphology w/ distance,Lab,,
+"Geffen et al., 2004","Fisher's Z, N",8.98E-02,9.82E-02,9.65E-03,0.09,9.90E-02,9.80E-03,Shafer 2013,Grey wolves,105,,Isolation by rainfall w/ distance,Lab,,
+"Geffen et al., 2004","Fisher's Z, N",9.97E-02,9.80E-02,9.61E-03,0.1,9.90E-02,9.80E-03,Shafer 2013,Grey wolves,105,,Isolation by temperature w/ distance,Lab,,
+"Geffen et al., 2004","Fisher's Z, N",0.129272584,9.74E-02,9.48E-03,0.13,9.90E-02,9.80E-03,Shafer 2013,Grey wolves,105,,Isolation by vegetation w/ distance,Lab,,
+"Geffen et al., 2004","Fisher's Z, N",0.139092448,9.71E-02,9.43E-03,0.14,9.90E-02,9.80E-03,Shafer 2013,Grey wolves,105,,Isolation by habitat w/ distance,Lab,,
+"Geffen et al., 2004","Fisher's Z, N",0.187746206,0.095524619,9.12E-03,0.19,9.90E-02,9.80E-03,Shafer 2013,Grey wolves,105,,Isolation by climate w/ distance,Lab,,
+"Hutsemekers et al., 2009","Fisher's Z, N",0.244918662,0.026890514,7.23E-04,0.25,2.86E-02,8.18E-04,Shafer 2013,Aquatic moss,1225,,Isolation by environment w/o distance,Lab,,
+"Hutsemekers et al., 2009","Fisher's Z, N",0.300437097,5.51E-02,3.03E-03,0.31,6.05E-02,3.66E-03,Shafer 2013,Aquatic moss,276,,Isolation by environment w/o distance,Lab,,
+"Irwin et al., 2008","Fisher's Z, N",0.730593896,4.97E-02,2.47E-03,0.93,0.106600358,1.14E-02,Shafer 2013,Greenish warbler,91,,Isolation by song w/o distance,Lab,,
+"Irwin et al., 2008","Fisher's Z, N",0.82427217,0.034173451,1.17E-03,1.17,0.106600358,1.14E-02,Shafer 2013,Greenish warbler,91,,Isolation by call w/o distance,Lab,,
+"Johannesson et al., 2004","Fisher's Z, N",7.98E-02,9.46E-03,8.96E-05,0.08,9.52E-03,9.07E-05,Shafer 2013,Marine snail,11026,,Isolation by habitat w/o distance,Lab,,
+"Alexander et al., 2006","Fisher's Z, N",0,3.18E-02,1.01E-03,0,3.18E-02,1.01E-03,Shafer 2013,Guppies,990,,Isolation by colour w/o distance,,,
+"Alexander et al., 2006","Fisher's Z, N",0.049958375,3.18E-02,1.01E-03,0.05,3.18E-02,1.01E-03,Shafer 2013,Guppies,990,,Isolation by morphology w/o distance,,,
+"Alexander et al., 2006","Fisher's Z, N",0.187746206,3.07E-02,9.43E-04,0.19,3.18E-02,1.01E-03,Shafer 2013,Guppies,990,,Isolation by morphology w/o distance,,,
+"Althoff, 2008","Fisher's Z, N",-4.00E-02,8.66E-02,7.49E-03,-0.04,0.086710997,7.52E-03,Shafer 2013,Eusandalum parasitoids,136,,Isolation by host association w/o distance,,,
+"Althoff, 2008","Fisher's Z, N",-4.00E-02,8.66E-02,7.49E-03,-0.04,0.086710997,7.52E-03,Shafer 2013,Eusandalum parasitoids,136,,Isolation by host association w/o distance,,,
+"Althoff, 2008","Fisher's Z, N",0.049958375,8.65E-02,7.48E-03,0.05,0.086710997,7.52E-03,Shafer 2013,Eusandalum parasitoids,136,,Isolation by host association w/o distance,,,
+"Althoff, 2008","Fisher's Z, N",-8.98E-02,0.086012413,7.40E-03,-0.09,0.086710997,7.52E-03,Shafer 2013,Eusandalum parasitoids,136,,Isolation by host association w/o distance,,,
+"Althoff, 2008","Fisher's Z, N",-0.10955847,8.57E-02,7.34E-03,-0.11,0.086710997,7.52E-03,Shafer 2013,Eusandalum parasitoids,136,,Isolation by host association w/ distance,,,
+"Althoff, 2008","Fisher's Z, N",-0.10955847,8.57E-02,7.34E-03,-0.11,0.086710997,7.52E-03,Shafer 2013,Eusandalum parasitoids,136,,Isolation by host association w/ distance,,,
+"Althoff, 2008","Fisher's Z, N",-0.119427299,8.55E-02,7.31E-03,-0.12,0.086710997,7.52E-03,Shafer 2013,Eusandalum parasitoids,136,,Isolation by host association w/ distance,,,
+"Althoff, 2008","Fisher's Z, N",-0.129272584,8.53E-02,7.27E-03,-0.13,0.086710997,7.52E-03,Shafer 2013,Eusandalum parasitoids,136,,Isolation by host association w/ distance,,,
+"Johannesson et al., 2004","Fisher's Z, N",7.98E-02,9.46E-03,8.96E-05,0.08,9.52E-03,9.07E-05,Shafer 2013,Marine snail,11026,,Isolation by habitat w/ distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.139092448,9.71E-02,9.43E-03,0.14,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by temperature w/o distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.244918662,9.31E-02,8.66E-03,0.25,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by temperature w/o distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.272905081,9.16E-02,8.40E-03,0.28,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by temperature w/o distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.371360228,8.54E-02,7.29E-03,0.39,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by salinity w/o distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.584979883,6.51E-02,4.24E-03,0.67,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by salinity w/o distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.680476006,5.32E-02,2.83E-03,0.83,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by salinity w/o distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.139092448,9.71E-02,9.43E-03,0.14,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by temperature w/ distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.244918662,9.31E-02,8.66E-03,0.25,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by temperature w/ distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.272905081,9.16E-02,8.40E-03,0.28,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by temperature w/ distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.38847268,0.084072336,7.07E-03,0.41,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by salinity w/ distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.616909303,6.13E-02,3.76E-03,0.72,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by salinity w/ distance,,,
+"Jørgensen et al., 2005","Fisher's Z, N",0.711393732,4.89E-02,2.39E-03,0.89,9.90E-02,9.80E-03,Shafer 2013,Herring,105,,Isolation by salinity w/ distance,,,
+"Klütsch et al., 2011","Fisher's Z, N",0.544127099,2.89E-02,8.37E-04,0.61,4.11E-02,1.69E-03,Shafer 2013,Burnet moth,595,,Isolation by altitude w/o distance,,,
+"Klütsch et al., 2011","Fisher's Z, N",0.652706706,2.36E-02,5.56E-04,0.78,4.11E-02,1.69E-03,Shafer 2013,Burnet moth,595,,Isolation by altitude w/o distance,,,
+"Klütsch et al., 2011","Fisher's Z, N",0.244918662,3.86E-02,1.49E-03,0.25,4.11E-02,1.69E-03,Shafer 2013,Burnet moth,595,,Isolation by altitude w/ distance,,,
+"Klütsch et al., 2011","Fisher's Z, N",0.38847268,3.49E-02,1.22E-03,0.41,4.11E-02,1.69E-03,Shafer 2013,Burnet moth,595,,Isolation by altitude w/ distance,,,
+"Leclerc et al., 2008","Fisher's Z, N",0.19737532,8.88E-02,7.89E-03,0.2,9.25E-02,8.55E-03,Shafer 2013,Perch,120,,Isolation by turbidity w/o distance,,,
+"Leclerc et al., 2008","Fisher's Z, N",0.2069665,8.85E-02,7.83E-03,0.21,9.25E-02,8.55E-03,Shafer 2013,Perch,120,,Isolation by temperature w/o distance,,,
+"Leclerc et al., 2008","Fisher's Z, N",0.10955847,9.13E-02,8.34E-03,0.11,9.25E-02,8.55E-03,Shafer 2013,Perch,120,,Isolation by turbidity w/ distance,,,
+"Leclerc et al., 2008","Fisher's Z, N",0.178080868,0.089518184,8.01E-03,0.18,9.25E-02,8.55E-03,Shafer 2013,Perch,120,,Isolation by temperature w/ distance,,,
+"Lee & Mitchell-Olds, 2011","Fisher's Z, N",3.00E-02,6.50E-02,4.23E-03,0.03,6.51E-02,4.24E-03,Shafer 2013,Boechera,239,,Isolation by environment w/ distance,,,
+"Lee & Mitchell-Olds, 2011","Fisher's Z, N",0.454216433,5.17E-02,2.67E-03,0.49,6.51E-02,4.24E-03,Shafer 2013,Boechera,239,,Isolation by environment w/ distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",-1.00E-02,0.103684801,1.08E-02,-0.01,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by Phosphorus retention w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",-5.99E-02,0.103322761,1.07E-02,-0.06,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",-0.06988589,0.103188718,1.06E-02,-0.07,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",-7.98E-02,0.103034342,1.06E-02,-0.08,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",-9.97E-02,0.102665092,1.05E-02,-0.1,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by Carbon content w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",-0.216518061,9.88E-02,9.77E-03,-0.22,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",-0.254295533,9.70E-02,9.41E-03,-0.26,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",-0.263624835,0.096488557,9.31E-03,-0.27,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by temperature w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",0,0.103695169,0.010752688,0,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by Carbon content w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",1.00E-02,0.103684801,1.08E-02,0.01,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by Nitrogen content w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",2.00E-02,0.103653702,1.07E-02,0.02,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by precipitation w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",3.00E-02,0.1036019,0.010733354,0.03,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by altitude w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",4.00E-02,0.103529434,1.07E-02,0.04,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by inorganic carbon w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",4.00E-02,0.103529434,1.07E-02,0.04,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by colour w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",0.06988589,0.103188718,1.06E-02,0.07,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",8.98E-02,0.102859753,1.06E-02,0.09,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by temperature w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",8.98E-02,0.102859753,1.06E-02,0.09,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by days wilting w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",0.10955847,0.10245051,1.05E-02,0.11,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by diurnal range w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",0.10955847,0.10245051,1.05E-02,0.11,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",0.139092448,0.101689009,1.03E-02,0.14,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",0.168381046,0.100755186,1.02E-02,0.17,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by precipitation w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",0.168381046,0.100755186,1.02E-02,0.17,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",0.178080868,0.100406706,1.01E-02,0.18,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",0.226028352,9.84E-02,9.68E-03,0.23,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by days to flower w/o distance,,,
+"Nakazato et al., 2008","Fisher's Z, N",0.244918662,9.75E-02,9.50E-03,0.25,0.103695169,0.010752688,Shafer 2013,Andean tomatoes,96,,Isolation by morphology w/o distance,,,
+"Nosil et al., 2008","Fisher's Z, N",5.99E-02,6.94E-02,4.82E-03,0.06,6.97E-02,4.85E-03,Shafer 2013,Walking sticks,209,,Isolation by ecomorphology w/o distance,,,
+"Nosil et al., 2008","Fisher's Z, N",0.226028352,6.61E-02,4.37E-03,0.23,6.97E-02,4.85E-03,Shafer 2013,Walking sticks,209,,Isolation by host preference w/o distance,,,
+"Nosil et al., 2008","Fisher's Z, N",0.119427299,6.87E-02,4.72E-03,0.12,6.97E-02,4.85E-03,Shafer 2013,Walking sticks,209,,Isolation by morphology w/o distance,,,
+"Nosil et al., 2008","Fisher's Z, N",1.00E-02,6.97E-02,4.85E-03,0.01,6.97E-02,4.85E-03,Shafer 2013,Walking sticks,209,,Isolation by ecomorphology w/ distance,,,
+"Nosil et al., 2008","Fisher's Z, N",0.049958375,6.95E-02,4.83E-03,0.05,6.97E-02,4.85E-03,Shafer 2013,Walking sticks,209,,Isolation by host preference w/ distance,,,
+"Nosil et al., 2008","Fisher's Z, N",3.00E-02,6.96E-02,4.85E-03,0.03,6.97E-02,4.85E-03,Shafer 2013,Walking sticks,209,,Isolation by morphology w/ distance,,,
+"Olsen et al., 2010","Fisher's Z, N",0.529895608,6.24E-02,3.89E-03,0.59,0.086710997,7.52E-03,Shafer 2013,Chinook salmon,136,,Isolation by gradient w/o distance,,,
+"Olsen et al., 2010","Fisher's Z, N",0.610676833,5.44E-02,2.96E-03,0.71,0.086710997,7.52E-03,Shafer 2013,Chinook salmon,136,,Isolation by elevation w/o distance,,,
+"Olsen et al., 2010","Fisher's Z, N",0.680476006,4.66E-02,2.17E-03,0.83,0.086710997,7.52E-03,Shafer 2013,Chinook salmon,136,,Isolation by gradient w/o distance,,,
+"Olsen et al., 2010","Fisher's Z, N",0.69106947,4.53E-02,2.05E-03,0.85,0.086710997,7.52E-03,Shafer 2013,Chinook salmon,136,,Isolation by elevation w/o distance,,,
+"Olsen et al., 2010","Fisher's Z, N",0.049958375,8.65E-02,7.48E-03,0.05,0.086710997,7.52E-03,Shafer 2013,Chinook salmon,136,,Isolation by gradient w/ distance,,,
+"Olsen et al., 2010","Fisher's Z, N",0.10955847,8.57E-02,7.34E-03,0.11,0.086710997,7.52E-03,Shafer 2013,Chinook salmon,136,,Isolation by elevation w/ distance,,,
+"Olsen et al., 2010","Fisher's Z, N",0.23549575,8.19E-02,6.71E-03,0.24,0.086710997,7.52E-03,Shafer 2013,Chinook salmon,136,,Isolation by gradient w/ distance,,,
+"Olsen et al., 2010","Fisher's Z, N",0.300437097,7.89E-02,6.22E-03,0.31,0.086710997,7.52E-03,Shafer 2013,Chinook salmon,136,,Isolation by elevation w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",-5.99E-02,7.69E-02,5.91E-03,-0.06,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by land use w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",-0.06988589,0.076774863,5.89E-03,-0.07,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by predators w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",-7.98E-02,7.67E-02,5.88E-03,-0.08,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by parasites w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",-8.98E-02,7.65E-02,5.86E-03,-0.09,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by parasites w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",-8.98E-02,7.65E-02,5.86E-03,-0.09,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by parasites w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",-9.97E-02,7.64E-02,5.83E-03,-0.1,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by parasites w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",0.049958375,0.076959117,5.92E-03,0.05,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by parasites w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",0.049958375,0.076959117,5.92E-03,0.05,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by land use w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",0.06988589,0.076774863,5.89E-03,0.07,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by land use w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",7.98E-02,7.67E-02,5.88E-03,0.08,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by parasites w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",0.119427299,7.61E-02,5.78E-03,0.12,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by predators w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",0.129272584,7.59E-02,5.76E-03,0.13,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by parasites w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",0.23549575,7.29E-02,5.31E-03,0.24,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by parasites w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",0.272905081,7.14E-02,5.10E-03,0.28,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by land use w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",0.430084211,6.29E-02,3.95E-03,0.46,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by land use w/ distance,,,
+"Orsini et al., 2012","Fisher's Z, N",0.529895608,5.55E-02,3.08E-03,0.59,0.077151675,5.95E-03,Shafer 2013,Daphnia,171,,Isolation by land use w/ distance,,,
+"Ortego et al., 2011","Fisher's Z, N",0.571669966,3.48E-02,1.21E-03,0.65,5.16E-02,2.67E-03,Shafer 2013,Grasshopper,378,,Isolation by elevation w/o distance,,,
+"Ortego et al., 2011","Fisher's Z, N",0.129272584,5.08E-02,2.58E-03,0.13,5.16E-02,2.67E-03,Shafer 2013,Grasshopper,378,,Isolation by elevation w/ distance,,,
+"Ortego et al., 2011","Fisher's Z, N",0.226028352,5.09E-02,2.59E-03,0.23,5.36E-02,2.87E-03,Shafer 2013,Grasshopper,351,,Isolation by elevation w/ distance,,,
+"Ortego et al., 2011","Fisher's Z, N",-0.226028352,5.74E-02,3.30E-03,-0.23,6.05E-02,3.66E-03,Shafer 2013,Grasshopper,276,,Isolation by elevation w/ distance,,,
+"Ortego et al., 2012","Fisher's Z, N",4.00E-02,1.11E-02,1.23E-04,0.04,1.11E-02,1.23E-04,Shafer 2013,Englemann Oak,8128,,Isolation by altitude w/o distance,,,
+"Ortego et al., 2012","Fisher's Z, N",4.00E-02,1.11E-02,1.23E-04,0.04,1.11E-02,1.23E-04,Shafer 2013,Englemann Oak,8128,,Isolation by historic niche w/o distance,,,
+"Ortego et al., 2012","Fisher's Z, N",5.99E-02,1.11E-02,1.22E-04,0.06,1.11E-02,1.23E-04,Shafer 2013,Englemann Oak,8128,,Isolation by current niche w/o distance,,,
+"Ortego et al., 2012","Fisher's Z, N",2.00E-02,0.011089568,1.23E-04,0.02,1.11E-02,1.23E-04,Shafer 2013,Englemann Oak,8128,,Isolation by altitude w/ distance,,,
+"Ortego et al., 2012","Fisher's Z, N",3.00E-02,1.11E-02,1.23E-04,0.03,1.11E-02,1.23E-04,Shafer 2013,Englemann Oak,8128,,Isolation by historic niche w/ distance,,,
+"Ortego et al., 2012","Fisher's Z, N",0.049958375,1.11E-02,1.22E-04,0.05,1.11E-02,1.23E-04,Shafer 2013,Englemann Oak,8128,,Isolation by current niche w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",0.413644442,3.86E-02,1.49E-03,0.44,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by phenology w/o distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",-4.00E-02,4.64E-02,2.16E-03,-0.04,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by elevation w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",-0.06988589,0.046296985,2.14E-03,-0.07,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by elevation w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",-7.98E-02,4.62E-02,2.14E-03,-0.08,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by temperature w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",-2.00E-02,4.65E-02,2.16E-03,-0.02,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by temperature w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",1.00E-02,4.65E-02,2.16E-03,0.01,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by slope w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",3.00E-02,4.65E-02,2.16E-03,0.03,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by slope w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",3.00E-02,4.65E-02,2.16E-03,0.03,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by phenology w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",3.00E-02,4.65E-02,2.16E-03,0.03,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by phenology w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",5.99E-02,4.64E-02,2.15E-03,0.06,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by elevation w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",0.129272584,4.57E-02,2.09E-03,0.13,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by radiation w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",0.148885034,4.55E-02,2.07E-03,0.15,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by radiation w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",0.158648504,4.54E-02,2.06E-03,0.16,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by slope w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",0.226028352,4.41E-02,1.95E-03,0.23,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by phenology w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",0.244918662,0.043733449,1.91E-03,0.25,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by radiation w/ distance,,,
+"Parisod & Christin, 2008","Fisher's Z, N",7.98E-02,4.62E-02,2.14E-03,0.08,4.65E-02,2.16E-03,Shafer 2013,Brassicaciea,465,,Isolation by temperature w/ distance,,,
+"Pease et al., 2009","Fisher's Z, N",-4.00E-02,1.31E-02,1.73E-04,-0.04,1.32E-02,1.73E-04,Shafer 2013,Mule deer,5778,,Isolation by environment w/ distance,,,
+"Pease et al., 2009","Fisher's Z, N",-0.06988589,1.56E-02,2.42E-04,-0.07,1.56E-02,2.44E-04,Shafer 2013,Mule deer,4095,,Isolation by environment w/ distance,,,
+"Pease et al., 2009","Fisher's Z, N",4.00E-02,0.055638752,3.10E-03,0.04,5.57E-02,3.11E-03,Shafer 2013,Mule deer,325,,Isolation by environment w/ distance,,,
+"Pease et al., 2009","Fisher's Z, N",9.97E-02,1.50E-02,2.24E-04,0.1,1.51E-02,2.29E-04,Shafer 2013,Mule deer,4371,,Isolation by environment w/ distance,,,
+"Pease et al., 2009","Fisher's Z, N",0.119427299,7.94E-03,6.31E-05,0.12,8.06E-03,6.49E-05,Shafer 2013,Mule deer,15400,,Isolation by environment w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.551128029,4.61E-02,2.13E-03,0.62,6.62E-02,4.39E-03,Shafer 2013,Atlantic salmon,231,,Isolation by temperature w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.178080868,6.73E-02,4.53E-03,0.18,6.95E-02,4.83E-03,Shafer 2013,Atlantic salmon,210,,Isolation by river length w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.641076961,4.09E-02,1.68E-03,0.76,6.95E-02,4.83E-03,Shafer 2013,Atlantic salmon,210,,Isolation by temperature w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.353991712,9.32E-02,8.69E-03,0.37,0.106600358,1.14E-02,Shafer 2013,Atlantic salmon,91,,Isolation by temperature w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.500520211,3.73E-02,1.39E-03,0.55,4.98E-02,2.48E-03,Shafer 2013,Atlantic salmon,406,,Isolation by temperature w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.148885034,0.104237374,1.09E-02,0.15,0.106600358,1.14E-02,Shafer 2013,Atlantic salmon,91,,Isolation by river length w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.507977433,3.14E-02,9.87E-04,0.56,4.23E-02,1.79E-03,Shafer 2013,Atlantic salmon,561,,Isolation by temperature w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.371360228,3.65E-02,1.33E-03,0.39,4.23E-02,1.79E-03,Shafer 2013,Atlantic salmon,561,,Isolation by river length w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.413644442,4.13E-02,1.70E-03,0.44,4.98E-02,2.48E-03,Shafer 2013,Atlantic salmon,406,,Isolation by river length w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.652706706,2.43E-02,5.90E-04,0.78,4.23E-02,1.79E-03,Shafer 2013,Atlantic salmon,561,,Isolation by substrate w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.721132254,2.39E-02,5.72E-04,0.91,4.98E-02,2.48E-03,Shafer 2013,Atlantic salmon,406,,Isolation by substrate w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.910424594,1.19E-02,1.41E-04,1.53,6.95E-02,4.83E-03,Shafer 2013,Atlantic salmon,210,,Isolation by substrate w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.880951268,1.48E-02,2.20E-04,1.38,6.62E-02,4.39E-03,Shafer 2013,Atlantic salmon,231,,Isolation by substrate w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.529895608,4.76E-02,2.27E-03,0.59,6.62E-02,4.39E-03,Shafer 2013,Atlantic salmon,231,,Isolation by river length w/o distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",3.00E-02,6.62E-02,4.38E-03,0.03,6.62E-02,4.39E-03,Shafer 2013,Atlantic salmon,231,,Isolation by temperature w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.049958375,6.93E-02,4.81E-03,0.05,6.95E-02,4.83E-03,Shafer 2013,Atlantic salmon,210,,Isolation by river length w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",5.99E-02,6.93E-02,4.80E-03,0.06,6.95E-02,4.83E-03,Shafer 2013,Atlantic salmon,210,,Isolation by temperature w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",8.98E-02,0.105741537,1.12E-02,0.09,0.106600358,1.14E-02,Shafer 2013,Atlantic salmon,91,,Isolation by temperature w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.158648504,4.86E-02,2.36E-03,0.16,4.98E-02,2.48E-03,Shafer 2013,Atlantic salmon,406,,Isolation by temperature w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.19737532,0.102447526,1.05E-02,0.2,0.106600358,1.14E-02,Shafer 2013,Atlantic salmon,91,,Isolation by river length w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.216518061,4.03E-02,1.63E-03,0.22,4.23E-02,1.79E-03,Shafer 2013,Atlantic salmon,561,,Isolation by temperature w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.362707468,3.68E-02,1.35E-03,0.38,4.23E-02,1.79E-03,Shafer 2013,Atlantic salmon,561,,Isolation by river length w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.462117157,3.92E-02,1.53E-03,0.5,4.98E-02,2.48E-03,Shafer 2013,Atlantic salmon,406,,Isolation by river length w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.469945199,3.30E-02,1.09E-03,0.51,4.23E-02,1.79E-03,Shafer 2013,Atlantic salmon,561,,Isolation by substrate w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.551128029,3.47E-02,1.20E-03,0.62,4.98E-02,2.48E-03,Shafer 2013,Atlantic salmon,406,,Isolation by substrate w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.658409036,3.94E-02,1.55E-03,0.79,6.95E-02,4.83E-03,Shafer 2013,Atlantic salmon,210,,Isolation by substrate w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.730593896,0.030877006,9.53E-04,0.93,6.62E-02,4.39E-03,Shafer 2013,Atlantic salmon,231,,Isolation by substrate w/ distance,,,
+"Perrier & Guyomard, 2011","Fisher's Z, N",0.769866536,2.70E-02,7.28E-04,1.02,6.62E-02,4.39E-03,Shafer 2013,Atlantic salmon,231,,Isolation by river length w/ distance,,,
+"Petren et al., 2005","Fisher's Z, N",0.318520777,5.95E-02,3.54E-03,0.33,6.62E-02,4.39E-03,Shafer 2013,Darwin's finches,231,,Isolation by morphology w/o distance,,,
+"Petren et al., 2005","Fisher's Z, N",0.492987967,5.01E-02,2.51E-03,0.54,6.62E-02,4.39E-03,Shafer 2013,Darwin's finches,231,,Isolation by morphology w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.564899553,6.29E-02,3.96E-03,0.64,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by temperature w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.564899553,6.29E-02,3.96E-03,0.64,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by temperature w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.438199315,7.47E-02,5.58E-03,0.47,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by rainfall w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.148885034,6.80E-02,4.62E-03,0.15,6.95E-02,4.83E-03,Shafer 2013,European grey wolves,210,,Isolation by rainfall w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.438199315,6.98E-02,4.87E-03,0.47,0.086386843,7.46E-03,Shafer 2013,European grey wolves,137,,Isolation by prey w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.469945199,5.42E-02,2.93E-03,0.51,6.95E-02,4.83E-03,Shafer 2013,European grey wolves,210,,Isolation by vegetation w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.680476006,4.66E-02,2.17E-03,0.83,0.086710997,7.52E-03,Shafer 2013,European grey wolves,136,,Isolation by vegetation w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.327477395,6.21E-02,3.85E-03,0.34,6.95E-02,4.83E-03,Shafer 2013,European grey wolves,210,,Isolation by temperature w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.405321309,7.73E-02,5.97E-03,0.43,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by rainfall w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.652706706,5.31E-02,2.82E-03,0.78,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by vegetation w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.71629787,4.50E-02,2.03E-03,0.9,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by vegetation w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.685809062,4.59E-02,2.11E-03,0.84,0.086710997,7.52E-03,Shafer 2013,European grey wolves,136,,Isolation by temperature w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.529895608,6.24E-02,3.89E-03,0.59,0.086710997,7.52E-03,Shafer 2013,European grey wolves,136,,Isolation by rainfall w/o distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.300437097,8.41E-02,7.07E-03,0.31,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by temperature w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.318520777,8.31E-02,6.90E-03,0.33,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by rainfall w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.139092448,6.82E-02,4.65E-03,0.14,6.95E-02,4.83E-03,Shafer 2013,European grey wolves,210,,Isolation by rainfall w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.119427299,8.52E-02,7.25E-03,0.12,0.086386843,7.46E-03,Shafer 2013,European grey wolves,137,,Isolation by prey w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.485381091,5.31E-02,2.82E-03,0.53,6.95E-02,4.83E-03,Shafer 2013,European grey wolves,210,,Isolation by vegetation w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.571669966,5.84E-02,3.41E-03,0.65,0.086710997,7.52E-03,Shafer 2013,European grey wolves,136,,Isolation by vegetation w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.187746206,6.71E-02,4.50E-03,0.19,6.95E-02,4.83E-03,Shafer 2013,European grey wolves,210,,Isolation by temperature w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.178080868,0.089518184,8.01E-03,0.18,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by rainfall w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.680476006,0.049641267,2.46E-03,0.83,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by vegetation w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.725897415,4.37E-02,1.91E-03,0.92,9.25E-02,8.55E-03,Shafer 2013,European grey wolves,120,,Isolation by vegetation w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.282134813,7.98E-02,6.37E-03,0.29,0.086710997,7.52E-03,Shafer 2013,European grey wolves,136,,Isolation by temperature w/ distance,,,
+"Pilot et al., 2006","Fisher's Z, N",0.291312612,7.94E-02,6.30E-03,0.3,0.086710997,7.52E-03,Shafer 2013,European grey wolves,136,,Isolation by rainfall w/ distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.477700012,5.11E-02,2.61E-03,0.52,6.62E-02,4.39E-03,Shafer 2013,F. insipida,231,,Isolation by precipitation w/o distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.396930432,5.58E-02,3.11E-03,0.42,6.62E-02,4.39E-03,Shafer 2013,F. insipida,231,,Isolation by environment w/o distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.379948962,5.67E-02,3.21E-03,0.4,6.62E-02,4.39E-03,Shafer 2013,F. insipida,231,,Isolation by temperature w/o distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",-0.148885034,0.064758589,4.19E-03,-0.15,6.62E-02,4.39E-03,Shafer 2013,F. insipida,231,,Isolation by precipitation w/ distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",-0.371360228,5.71E-02,3.26E-03,-0.39,6.62E-02,4.39E-03,Shafer 2013,F. insipida,231,,Isolation by environment w/ distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",-0.421899005,5.44E-02,2.96E-03,-0.45,6.62E-02,4.39E-03,Shafer 2013,F. insipida,231,,Isolation by temperature w/ distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.309506921,4.07E-02,1.66E-03,0.32,4.50E-02,2.03E-03,Shafer 2013,B. simaruba,496,,Isolation by temperature w/o distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.379948962,3.85E-02,1.49E-03,0.4,4.50E-02,2.03E-03,Shafer 2013,B. simaruba,496,,Isolation by precipitation w/o distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.492987967,3.41E-02,1.16E-03,0.54,4.50E-02,2.03E-03,Shafer 2013,B. simaruba,496,,Isolation by environment w/o distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",1.00E-02,4.50E-02,2.03E-03,0.01,4.50E-02,2.03E-03,Shafer 2013,B. simaruba,496,,Isolation by temperature w/ distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.178080868,4.36E-02,1.90E-03,0.18,4.50E-02,2.03E-03,Shafer 2013,B. simaruba,496,,Isolation by precipitation w/ distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.379948962,3.85E-02,1.49E-03,0.4,4.50E-02,2.03E-03,Shafer 2013,B. simaruba,496,,Isolation by environment w/ distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.469945199,3.88E-02,1.51E-03,0.51,4.98E-02,2.48E-03,Shafer 2013,B. alicastrum,406,,Isolation by environment w/o distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.492987967,3.77E-02,1.42E-03,0.54,4.98E-02,2.48E-03,Shafer 2013,B. alicastrum,406,,Isolation by temperature w/o distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.537049567,0.035446213,1.26E-03,0.6,4.98E-02,2.48E-03,Shafer 2013,B. alicastrum,406,,Isolation by precipitation w/o distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.353991712,4.36E-02,1.90E-03,0.37,4.98E-02,2.48E-03,Shafer 2013,B. alicastrum,406,,Isolation by environment w/ distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.379948962,4.26E-02,1.82E-03,0.4,4.98E-02,2.48E-03,Shafer 2013,B. alicastrum,406,,Isolation by temperature w/ distance,,,
+"Poelchau & Hamrick, 2012","Fisher's Z, N",0.438199315,4.02E-02,1.62E-03,0.47,4.98E-02,2.48E-03,Shafer 2013,B. alicastrum,406,,Isolation by precipitation w/ distance,,,
+"Pröhl et al., 2006","Fisher's Z, N",0.23549575,5.48E-02,3.00E-03,0.24,5.80E-02,3.37E-03,Shafer 2013,Tungara frog,300,,Isolation by bioacoustics w/o distance,,,
+"Pröhl et al., 2006","Fisher's Z, N",-0.226028352,5.51E-02,3.03E-03,-0.23,5.80E-02,3.37E-03,Shafer 2013,Tungara frog,300,,Isolation by bioacoustics w/ distance,,,
+"Ramstad et al., 2004","Fisher's Z, N",0,9.90E-02,9.80E-03,0,9.90E-02,9.80E-03,Shafer 2013,Sockeye salmon,105,,Isolation by habitat w/o distance,,,
+"Richter-Boix et al., 2011","Fisher's Z, N",9.97E-02,8.58E-02,7.37E-03,0.1,0.086710997,7.52E-03,Shafer 2013,Moor frog,136,,Isolation by habitat w/o distance,,,
+"Richter-Boix et al., 2011","Fisher's Z, N",0.139092448,8.50E-02,7.23E-03,0.14,0.086710997,7.52E-03,Shafer 2013,Moor frog,136,,Isolation by habitat w/o distance,,,
+"Richter-Boix et al., 2011","Fisher's Z, N",9.97E-02,8.58E-02,7.37E-03,0.1,0.086710997,7.52E-03,Shafer 2013,Moor frog,136,,Isolation by habitat w/ distance,,,
+"Richter-Boix et al., 2011","Fisher's Z, N",0.119427299,8.55E-02,7.31E-03,0.12,0.086710997,7.52E-03,Shafer 2013,Moor frog,136,,Isolation by habitat w/ distance,,,
+"Robertson et al., 2009","Fisher's Z, N",3.00E-02,0.098925694,9.79E-03,0.03,9.90E-02,9.80E-03,Shafer 2013,Tree frogs,105,,Isolation by colour w/o distance,,,
+"Robertson et al., 2009","Fisher's Z, N",0.66959026,3.83E-02,1.47E-03,0.81,6.95E-02,4.83E-03,Shafer 2013,Tree frogs,210,,Isolation by colour w/o distance,,,
+"Ruano et al., 2011","Fisher's Z, N",0.52266543,1.85E-02,3.44E-04,0.58,2.55E-02,6.51E-04,Shafer 2013,P. longiseta,1540,,Isolation by chemicals w/o distance,,,
+"Sandrock et al., 2011","Fisher's Z, N",-1.00E-02,8.16E-02,6.67E-03,-0.01,8.16E-02,6.67E-03,Shafer 2013,Aphid,153,,Isolation by life cycle w/o distance,,,
+"Selkoe et al., 2010","Fisher's Z, N",0.2069665,0.08299672,6.89E-03,0.21,0.086710997,7.52E-03,Shafer 2013,Spiny lobster,136,,Isolation by temperature w/o distance,,,
+"Selkoe et al., 2010","Fisher's Z, N",0.282134813,7.98E-02,6.37E-03,0.29,0.086710997,7.52E-03,Shafer 2013,Spiny lobster,136,,Isolation by habitat w/o distance,,,
+"Selkoe et al., 2010","Fisher's Z, N",-0.272905081,8.03E-02,6.44E-03,-0.28,0.086710997,7.52E-03,Shafer 2013,Spiny lobster,136,,Isolation by temperature w/ distance,,,
+"Selkoe et al., 2010","Fisher's Z, N",0.413644442,7.19E-02,5.17E-03,0.44,0.086710997,7.52E-03,Shafer 2013,Spiny lobster,136,,Isolation by habitat w/ distance,,,
+"Selkoe et al., 2010","Fisher's Z, N",0.336375544,6.49E-02,4.21E-03,0.35,7.31E-02,5.35E-03,Shafer 2013,Kelp bass,190,,Isolation by habitat w/ distance,,,
+"Selkoe et al., 2010","Fisher's Z, N",0.371360228,6.30E-02,3.97E-03,0.39,7.31E-02,5.35E-03,Shafer 2013,Kelp bass,190,,Isolation by temperature w/ distance,,,
+"Selkoe et al., 2010","Fisher's Z, N",0.69106947,3.82E-02,1.46E-03,0.85,7.31E-02,5.35E-03,Shafer 2013,Kelp bass,190,,Isolation by habitat w/o distance,,,
+"Selkoe et al., 2010","Fisher's Z, N",0.19737532,3.54E-02,1.25E-03,0.2,3.68E-02,1.36E-03,Shafer 2013,Kellet's whelk,741,,Isolation by temperature w/ distance,,,
+"Selkoe et al., 2010","Fisher's Z, N",0.529895608,2.65E-02,7.01E-04,0.59,3.68E-02,1.36E-03,Shafer 2013,Kellet's whelk,741,,Isolation by habitat w/ distance,,,
+"Selkoe et al., 2010","Fisher's Z, N",0.263624835,3.43E-02,1.17E-03,0.27,3.68E-02,1.36E-03,Shafer 2013,Kellet's whelk,741,,Isolation by habitat w/o distance,,,
+"Shafer et al., 2011","Fisher's Z, N",0.309506921,8.09E-02,6.54E-03,0.32,8.94E-02,0.008,Shafer 2013,Mountain goats,128,,Isolation by mountain range w/ distance,,,
+"Sponer & Roy, 2002","Fisher's Z, N",-4.00E-02,9.23E-02,8.52E-03,-0.04,9.25E-02,8.55E-03,Shafer 2013,Starfish,120,,Isolation by depth w/ distance,,,
+"Sponer & Roy, 2002","Fisher's Z, N",-0.500520211,6.93E-02,4.80E-03,-0.55,9.25E-02,8.55E-03,Shafer 2013,Starfish,120,,Isolation by depth w/ distance,,,
+"Sponer & Roy, 2002","Fisher's Z, N",4.00E-02,9.23E-02,8.52E-03,0.04,9.25E-02,8.55E-03,Shafer 2013,Starfish,120,,Isolation by temperature w/ distance,,,
+"Sponer & Roy, 2002","Fisher's Z, N",7.98E-02,9.19E-02,8.44E-03,0.08,9.25E-02,8.55E-03,Shafer 2013,Starfish,120,,Isolation by temperature w/ distance,,,
+"Stelkens et al., 2012","Fisher's Z, N",-4.00E-02,9.23E-02,8.52E-03,-0.04,9.25E-02,8.55E-03,Shafer 2013,Brown trout,120,,Isolation by phenotype w/o distance,,,
+"Stelkens et al., 2012","Fisher's Z, N",-7.98E-02,9.19E-02,8.44E-03,-0.08,9.25E-02,8.55E-03,Shafer 2013,Brown trout,120,,Isolation by phenotype w/o distance,,,
+"Streisfeld & Kohn, 2005","Fisher's Z, N",0.216518061,5.46E-02,2.98E-03,0.22,5.73E-02,3.28E-03,Shafer 2013,Bush monkeyflower,308,,Isolation by colour w/o distance,,,
+"Streisfeld & Kohn, 2005","Fisher's Z, N",0.454216433,4.54E-02,2.07E-03,0.49,5.73E-02,3.28E-03,Shafer 2013,Bush monkeyflower,308,,Isolation by colour w/o distance,,,
+"Vandepitte et al., 2007","Fisher's Z, N",-0.226028352,7.75E-02,6.00E-03,-0.23,8.16E-02,6.67E-03,Shafer 2013,Forest herb,153,,Isolation by community w/o distance,,,
+"Vandepitte et al., 2007","Fisher's Z, N",-0.291312612,0.07472062,5.58E-03,-0.3,8.16E-02,6.67E-03,Shafer 2013,Forest herb,153,,Isolation by community w/ distance,,,
+"Wang & Summers, 2010","Fisher's Z, N",0.500520211,5.78E-02,3.34E-03,0.55,0.077151675,5.95E-03,Shafer 2013,Poison-dart frog,171,,Isolation by colour w/ distance,,,
+"Wang & Summers, 2010","Fisher's Z, N",0.515359278,5.67E-02,3.21E-03,0.57,0.077151675,5.95E-03,Shafer 2013,Poison-dart frog,171,,Isolation by colour w/ distance,,,
+"Wang & Summers, 2010","Fisher's Z, N",0.544127099,5.43E-02,2.95E-03,0.61,0.077151675,5.95E-03,Shafer 2013,Poison-dart frog,171,,Isolation by colour w/ distance,,,
+"Wang & Summers, 2010","Fisher's Z, N",0.544127099,5.43E-02,2.95E-03,0.61,0.077151675,5.95E-03,Shafer 2013,Poison-dart frog,171,,Isolation by colour w/ distance,,,
+"Worley et al., 2004","Fisher's Z, N",0.571669966,4.07E-02,1.66E-03,0.65,6.05E-02,3.66E-03,Shafer 2013,Wild sheep,276,,Isolation by mountain range w/ distance,,,
+"Worley et al., 2004","Fisher's Z, N",3.00E-02,6.05E-02,3.66E-03,0.03,6.05E-02,3.66E-03,Shafer 2013,Wild sheep,276,,Isolation by mountain range w/ distance,,,
+"Worley et al., 2004","Fisher's Z, N",0.362707468,5.26E-02,2.76E-03,0.38,6.05E-02,3.66E-03,Shafer 2013,Wild sheep,276,,Isolation by mountain range w/ distance,,,
+Brown & Brown 1986,"Independent groups (means, SD's)",0.375369485,5.24E-02,2.74E-03,0.394658695,6.10E-02,3.72E-03,"Watson, 2013",Cliff Swallow,96,154,young produced,,Parasite Load,Natural
+Brown & Brown 2004,"Independent groups (means, SD's)",0.222164606,6.07E-02,0.003687947,0.225931953,0.063881475,4.08E-03,"Watson, 2013",Cliff Swallow,36,203,Survival,,Parasite Load,Natural
+Brown et al. 1995,"Independent groups (means, SD's)",7.79E-03,5.64E-03,3.18E-05,7.79E-03,5.64E-03,3.18E-05,"Watson, 2013",Cliff Swallow,4323,27095,Blank,,Parasite Load,Natural
+Chapman & George 1991,"Independent groups (means, SD's)",0.725313228,1.67E-02,2.81E-04,0.918766229,3.53E-02,1.25E-03,"Watson, 2013",Cliff Swallow,338,252,breeding success,,Parasite Load,Natural
+Fitze et al. 2004,"Independent groups (means, SD's)",0.135581812,6.98E-02,4.87E-03,0.136421871,7.11E-02,5.06E-03,"Watson, 2013",Great Tit,108,88,Clutch Size,,Parasite Load,Natural
+Schmidt et al. 1979,"Independent groups (means, SD's)",0.781224513,2.11E-02,4.45E-04,1.048505154,5.41E-02,2.93E-03,"Watson, 2013",Bighorn Sheep,35,202,Survival,,Parasite Load,Natural
