@@ -1,8 +1,13 @@
+
+# Plumbing ----------------------------------------------------------------
+
+
 ##Package Installation
 
 if (!require(PerformanceAnalytics)){ 
   install.packages(PerformanceAnalytics) 
 } 
+
 
 
 if (!require(plyr)){ 
@@ -32,9 +37,8 @@ colnames(DATAFILE)<-c( "studyname", "type",
 ) 
 
 
-########################################################
-####Effect Size vs. Sample Size, sort-of Funnel Plot####
-########################################################
+# Funnel-ish Plot ---------------------------------------------------------
+
 
 png("Pre-Subset/Pre-subset Effect Size vs. Sample Size.png", width=1200, height=1000)
 par(mfrow=c(2,1))
@@ -48,10 +52,7 @@ plot(zsample, main="Z vs. Sample Size")
 abline((mean(DATAFILE$Z)), 0, col="red")
 
 
-###################################################################
-##~~~~Summary Data and Pre-treatment Counts Per Meta-Analysis~~~~##
-###################################################################
-
+# Source Meta-Analysis Summaries ------------------------------------------
 
 sink("Pre-Subset/Pre-subset_summary_output_by_input_metaanalysis.txt")
 Rmeta <- aggregate( R ~ metaanalysis,
@@ -80,9 +81,7 @@ plot(Zmeta, main="Z by Source Meta-Analysis", cex.axis=0.6)
 write.csv(cbind(Rmeta,Zmeta), "Pre-Subset/Pre-subset_datapermeta-analysis.csv")
 
 
-############################
-##~~~Outlier Extraction~~~##
-############################
+# Outlier Detection -------------------------------------------------------
 
 ## Extract rows with Z >= 1.5
 attach(DATAFILE)
@@ -98,18 +97,15 @@ sink()
 
 
 #####################################################################
-#####################################################################
-#####################################################################
 ##########*****~~~~BEGINNING OF SUBSETTED ANALYSIS~~~~*****##########
 #####################################################################
-#####################################################################
 
 
-#####################################################################
-##  Calculates Median of subsets (species followed by sample size, ## 
-##               author, then response variable)                   ##
-#####################################################################
+# Subsetting into Independent Effect Sizes --------------------------------
 
+
+##Calculates Median of subsets (species followed by sample size,
+##author, then response variable) 
 
 attach(DATAFILE)
 Rdata <-aggregate(R, by=list(species, n, 
@@ -133,9 +129,7 @@ medRdata <- Rdata[,6]
 medZdata <- Zdata[,6]
 
 
-#####################################################################
-##          Meta-Analysis Counts Pre- and Post-Subsetting          ##
-#####################################################################
+# Meta-Analysis Counts Pre- and Post- Subsetting --------------------------
 
 sink("Post-Subset/Pre_and_post_subset_counts_by_meta_analysis.txt")
 cat("pre-Median")
@@ -166,10 +160,7 @@ text(mp, height, labels = format(height, 4),
 write.csv(metacount, "Post-Subset/Meta-Analysis Counts Pre- and Post-Median.csv")
 
 
-
-#######################################################
-## ~~Make some plots, output is all exported to wd~~ ##
-#######################################################
+# Plots and Visualization -------------------------------------------------
 
 ##Histograms and Density Plots
 png("Post-Subset/SubsettedHistogram.png", width=1200, height=800)
@@ -202,7 +193,8 @@ lines(xfit, yfit, col="blue", lwd=2)
 
 ##Presentable Plot
 png("Post-Subset/Zdistribution.png", width=1200, height=1000)
-hist(medZdata, prob=FALSE, breaks=100, main="Median-Subsetted Z Data", xlab= "Fisher's Z", xlim=c(-2,3), ylim=c(0,50))
+hist(medZdata, prob=FALSE, breaks=100, main="Median-Subsetted Z Data", 
+     xlab= "Fisher's Z", xlim=c(-2,3), ylim=c(0,50), col="lightblue")
 abline(v=median(medZdata), col="red")
 
 
@@ -227,9 +219,7 @@ boxplot(medRdata, main="Boxplot of Species Median Correlation Data")
 boxplot(medZdata, main="Boxplot of Species Median Z Data", ylim=c(-4,4))
 
 
-#########################################
-####~~SummaryData_and_NormalityTest~~####
-#########################################
+# Summary and Normality Test ----------------------------------------------
 
 sink("Post-Subset/SubsettedSummaryData_and_NormalityTest.txt")
 
@@ -242,10 +232,7 @@ shapiro.test(medZdata)
 sink()
 
 
-
-#############################
-##~~~~~~ECDF Analysis~~~~~~##
-#############################
+# ECDF Analysis -----------------------------------------------------------
 
 x<-ecdf(medRdata)
 y<-ecdf(medZdata)
@@ -320,9 +307,8 @@ barplot(w$Values, names.arg=w$Categories, border=NA, col="lightblue",
         ylim=c(0,0.5), main="Effect Size Distribution, Fisher's Z")
 
 
-#############################
-##~~~~~~Conf Interval~~~~~~##
-#############################
+# Conf Interval -----------------------------------------------------------
+
 
 #plot with 95% bands
 png("Post-Subset/ECDF with CI.png", width=2000, height=1400)
