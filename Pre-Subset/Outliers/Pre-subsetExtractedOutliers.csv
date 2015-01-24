@@ -1,4 +1,4 @@
-"","Study.Name","Type","R","SE.R","Var.R","Z","SE.Z","Var.Z","Meta.Analysis","Species","Sample.Size","Sample.Size.2","Response.Variable","Venue","Treatment","Treatment.Category"
+"","studyname","type","R","SEr","Varr","Z","SEz","Varz","metaanalysis","species","n","n2","responsevar","venue","treatment","treatment_category"
 "126","Howlett & Davidson, 2001","Fisher's Z, N",0.959534006,0.00363,1.32e-05,1.94,0.045786855,0.0021,"Endara, 2011","Woody",480,NA,"Defense investment","","growth","Natural"
 "137","Miller & Woodrow 2008","Fisher's Z, N",0.966747288,0.00678,4.6e-05,2.04,0.103695169,0.010752688,"Endara, 2011","Woody",96,NA,"Defense investment","","growth","Natural"
 "138","Miller & Woodrow 2008","Fisher's Z, N",0.982674112,0.00356,1.27e-05,2.37,0.103695169,0.010752688,"Endara, 2011","Woody",96,NA,"Defense investment","","growth","Natural"

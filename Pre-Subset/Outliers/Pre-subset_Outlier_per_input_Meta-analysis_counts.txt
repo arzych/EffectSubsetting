@@ -1,2 +1,3 @@
-[1] freq
-<0 rows> (or 0-length row.names)
+             x freq
+1 Endara, 2011   18
+2  Shafer 2013    1
