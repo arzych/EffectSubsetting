@@ -331,19 +331,26 @@ ecdf.ksCI(medRdata)
 ecdf.ksCI(medZdata)
 
 sink("Post-Subset/ConfidenceMeasures.txt")
-##K-S statistic, basically the plus-or-minus value for distribution
+##K-S statistic
+cat("D for R")
 KSd(length(medRdata))
+cat("D for Z")
 KSd(length(medZdata))
 
 ##Bootstrapping for R
 meanFunc <- function(x,i){mean(x[i])}
 bootMean <- boot(medRdata ,meanFunc,10000)
 #SE
+cat("Correlation")
+cat("SE")
 sd(bootMean$t)
 ##bias
+cat("Bias")
 mean(bootMean$t) - bootMean$t0
 ##lower 95%
+cat("lower 95%")
 quantile(bootMean$t,.025)
+cat("upper 95%")
 ##upper
 quantile(bootMean$t, 0.975)
 
@@ -351,12 +358,17 @@ quantile(bootMean$t, 0.975)
 meanFunc <- function(x,i){mean(x[i])}
 bootMeanZ <- boot(medZdata ,meanFunc,10000)
 #SE
+cat("Z")
+cat("SE")
 sd(bootMeanZ$t)
 ##bias
+cat("Bias")
 mean(bootMeanZ$t) - bootMeanZ$t0
 ##lower 95%
+cat("lower 95%")
 quantile(bootMeanZ$t,.025)
 ##upper
+cat("upper 95%")
 quantile(bootMeanZ$t, 0.975)
 sink()
 
