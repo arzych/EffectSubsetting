@@ -194,7 +194,7 @@ lines(xfit, yfit, col="blue", lwd=2)
 ##Presentable Plot
 png("Post-Subset/Zdistribution.png", width=1200, height=1000)
 hist(medZdata, prob=FALSE, breaks=100, main="Median-Subsetted Z Data", 
-     xlab= "Fisher's Z", xlim=c(-2,3), ylim=c(0,50), col="lightblue")
+     xlab= "Fisher's Z", xlim=c(-2,3), ylim=c(0,50), col="lightblue", border="white")
 abline(v=median(medZdata), col="red")
 
 
