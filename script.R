@@ -270,6 +270,7 @@ qZ<-data.frame(quantR)
 print(qZ)
 
 #Binning
+#Z-bins are CMA conversions of R cut-offs for small/med/large
 w <- data.frame(Categories = c("% negative","%  0 - 0.1","%  0.1 - 0.310",
                                "%  0.310 - 0.549","%  0.549 - 1", "% > 1"), 
                 
@@ -327,16 +328,15 @@ KSd(length(medZdata))
 meanFunc <- function(x,i){mean(x[i])}
 bootMean <- boot(medRdata ,meanFunc,10000)
 #SE
-cat("Correlation")
-cat("SE")
+cat("R-SE")
 sd(bootMean$t)
 ##bias
-cat("Bias")
+cat("R-Bias")
 mean(bootMean$t) - bootMean$t0
 ##lower 95%
-cat("lower 95%")
+cat("R-lower 95%")
 quantile(bootMean$t,.025)
-cat("upper 95%")
+cat("R-upper 95%")
 ##upper
 quantile(bootMean$t, 0.975)
 
@@ -344,17 +344,16 @@ quantile(bootMean$t, 0.975)
 meanFunc <- function(x,i){mean(x[i])}
 bootMeanZ <- boot(medZdata ,meanFunc,10000)
 #SE
-cat("Z")
-cat("SE")
+cat("Z-SE")
 sd(bootMeanZ$t)
 ##bias
-cat("Bias")
+cat("Z-Bias")
 mean(bootMeanZ$t) - bootMeanZ$t0
 ##lower 95%
-cat("lower 95%")
+cat("Z-lower 95%")
 quantile(bootMeanZ$t,.025)
 ##upper
-cat("upper 95%")
+cat("Z-lupper 95%")
 quantile(bootMeanZ$t, 0.975)
 sink()
 
