@@ -8,8 +8,6 @@ if (!require(PerformanceAnalytics)){
   install.packages(PerformanceAnalytics) 
 } 
 
-
-
 if (!require(plyr)){ 
   install.packages(plyr) 
 } 
